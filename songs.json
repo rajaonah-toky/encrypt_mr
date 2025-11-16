@@ -1,0 +1,24 @@
+{
+  "id": "nYB7zQay2DvYV2g5aUUz",
+  "title": "Hanina an'i Neny",
+  "midiPrice": 5000,
+  "sheetMusicPrice": 3000,
+  "formattedPrice": "5000 Ar",
+  "formattedSheetMusicPrice": "3000 Ar",
+  "inAppMidiPrice": "com.app.midi.song1",
+  "inAppSheetMusicPrice": "com.app.sheet.song1",
+  "midiPriceUSD": 1.25,
+  "sheetMusicPriceUSD": 0.75,
+  "isEnabled": false,
+  "isSheetMusicPurchased": false,
+  "isFavorite": false,
+  "albumId": "112w3o2vMrdHbIP55u0F",
+  "filePath": "assets/midi/albums/barijaona/Hanina_an_i_Neny.mid",
+  "coverImagePath": "assets/images/covers/hanina_neny.jpg",
+  "artistName": "Barijaona",
+  "genre": {
+    "id": "55PnYdBNHTPIMvXlErQl",
+    "priority": 2,
+    "name": "Bàs Gasy"
+  }
+}

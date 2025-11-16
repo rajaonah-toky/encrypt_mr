@@ -1,0 +1,15 @@
+[
+  {
+    "id": "KMfG9awtqkGY7pUU23Fu",
+    "title": "Henry Ratsimbazafy Collection",
+    "artistName": "Henry Ratsimbazafy",
+    "folderPath": "assets/midi/albums/henry_ratsimbazafy/",
+    "imagePath": "assets/midi/albums/hr.jpg",
+    "price": 20000,
+    "genre": {
+      "id": "55PnYdBNHTPIMvXlErQl",
+      "priority": 2,
+      "name": "Bàs Gasy"
+    }
+  }
+]

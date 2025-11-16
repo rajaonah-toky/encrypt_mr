@@ -1,0 +1,114 @@
+[
+  {
+    "id": "KMfG9awtqkGY7pUU23Fu",
+    "title": "",
+    "artistName": "Rija Rasolondraibe",
+    "folderPath": "assets/midi/albums/rija_rasolondraibe/",
+    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
+    "price": 20000,
+    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "musicGenre": {
+      "id": "55PnYdBNHTPIMvXlErQl",
+      "priority": 2,
+      "label": "Bàs Gasy"
+    }
+  },
+  {
+    "id": "112w3o2vMrdHbIP55u0F",
+    "title": "",
+    "artistName": "Mialy Rakotomamonjy",
+    "folderPath": "assets/midi/albums/mialy_rakotomamonjy/",
+    "imagePath": "assets/midi/albums/mialy_rakotomamonjy.jpg",
+    "price": 20000,
+    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "musicGenre": {
+      "id": "55PnYdBNHTPIMvXlErQl",
+      "priority": 2,
+      "label": "Bàs Gasy"
+    }
+  },
+  {
+    "id": "n1y1Xyrv7uZo64eil31A",
+    "title": "",
+    "artistName": "Joseph d'Af",
+    "folderPath": "assets/midi/albums/joseph_d_af/",
+    "imagePath": "assets/midi/albums/joseph_d_af.jpg",
+    "price": 20000,
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
+    "musicGenre": {
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "TXx7Do8Og9xvXQoa0rVX",
+    "title": "",
+    "artistName": "Fara Andriamamonjy",
+    "folderPath": "assets/midi/albums/fara_andriamamonjy/",
+    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
+    "price": 20000,
+    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "musicGenre": {
+      "id": "55PnYdBNHTPIMvXlErQl",
+      "priority": 2,
+      "label": "Bàs Gasy"
+    }
+  },
+  {
+    "id": "owCt6VkI1F7kmGmEx2DI",
+    "title": "",
+    "artistName": "Ndriana Ramamonjy",
+    "folderPath": "assets/midi/albums/ndriana_ramamonjy/",
+    "imagePath": "assets/midi/albums/ndriana_ramamonjy.jpg",
+    "price": 20000,
+    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "musicGenre": {
+      "id": "55PnYdBNHTPIMvXlErQl",
+      "priority": 2,
+      "label": "Bàs Gasy"
+    }
+  },
+  {
+    "id": "U0P723zLWzXkijXSEZoF",
+    "title": "",
+    "artistName": "Jocelyn Ranjarison",
+    "imagePath": "assets/midi/albums/jocelyn_ranjarison.jpg",
+    "folderPath": "assets/midi/albums/jocelyn_ranjarison/",
+    "price": 20000,
+    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "musicGenre": {
+      "id": "55PnYdBNHTPIMvXlErQl",
+      "priority": 2,
+      "label": "Bàs Gasy"
+    }
+  },
+  {
+    "id": "5KBmAvHmVXIXWkWrzlHF",
+    "title": "",
+    "artistName": "GMMC",
+    "imagePath": "assets/midi/albums/gmmc.jpg",
+    "folderPath": "assets/midi/albums/gmmc/",
+    "price": 20000,
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
+    "musicGenre": {
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "8lMMQ2wVJaUJ8jjd1Kpg",
+    "title": "",
+    "artistName": "Poopy",
+    "imagePath": "assets/midi/albums/poopy.jpg",
+    "folderPath": "assets/midi/albums/poopy/",
+    "price": 20000,
+    "musicGenreId": "SnMngC4jcXGG0OrmQpuF",
+    "musicGenre": {
+      "id": "SnMngC4jcXGG0OrmQpuF",
+      "priority": 4,
+      "label": "Evangeliques"
+    }
+  }
+]
