@@ -181,41 +181,11 @@
   },
   {
     "id": "cBuLNiP4VVHt1dzNHxhj",
-    "title": "Ilay sarinao",
+    "title": "Fohazo ny foko",
     "albumId": "KMfG9awtqkGY7pUU23Fu",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/henry_ratsimbazafy/Ilay sarinao.mid",
-    "author": "Henry Ratsimbazafy",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "UnIPNNmTsM4KjF5xJDvw",
-    "title": "Ilay foko feno ratra",
-    "albumId": "KMfG9awtqkGY7pUU23Fu",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/henry_ratsimbazafy/Ilay foko feno ratra.mid",
-    "author": "Henry Ratsimbazafy",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "BW9tOn3zyt9c9mOuWhQA",
-    "title": "Bobongolo ilay fitia",
-    "albumId": "KMfG9awtqkGY7pUU23Fu",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/henry_ratsimbazafy/Bobongolo ilay fitia.mid",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Fohazo ny fokomid",
     "author": "Henry Ratsimbazafy",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
@@ -230,7 +200,7 @@
     "albumId": "KMfG9awtqkGY7pUU23Fu",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/henry_ratsimbazafy/Fony aho.mid",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Fony aho.mid",
     "author": "Henry Ratsimbazafy",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
@@ -245,7 +215,7 @@
     "albumId": "KMfG9awtqkGY7pUU23Fu",
     "price": 10000,
     "isEnabled": true,
-    "filePath": "assets/midi/albums/henry_ratsimbazafy/Anao no nindramiko.mid",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Anao no nindramiko.mid",
     "author": "Henry Ratsimbazafy",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
@@ -485,13 +455,13 @@
     "albumId": "8lMMQ2wVJaUJ8jjd1Kpg",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/evangeliques/salamo1.mid",
+    "filePath": "assets/midi/albums/Gospel/salamo1.mid",
     "author": "Ndriana Ramamonjy",
     "musicGenreId": "SnMngC4jcXGG0OrmQpuF",
     "musicGenre": {
       "id": "SnMngC4jcXGG0OrmQpuF",
       "priority": 4,
-      "label": "Evangeliques"
+      "label": "Gospel"
     }
   },
   {
@@ -500,13 +470,13 @@
     "albumId": "8lMMQ2wVJaUJ8jjd1Kpg",
     "price": 10000,
     "isEnabled": true,
-    "filePath": "assets/midi/albums/evangeliques/atra_tsy.mid",
+    "filePath": "assets/midi/albums/Gospel/atra_tsy.mid",
     "author": "Laurent Rakotomamonjy",
     "musicGenreId": "SnMngC4jcXGG0OrmQpuF",
     "musicGenre": {
       "id": "SnMngC4jcXGG0OrmQpuF",
       "priority": 4,
-      "label": "Evangeliques"
+      "label": "Gospel"
     }
   }
 ]
