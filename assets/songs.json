@@ -136,12 +136,12 @@
   },
   {
     "id": "1N2coCx1pYUUlK1VNPUh",
-    "title": "Fitia tsy anjara",
+    "title": "Rasalama",
     "albumId": "owCt6VkI1F7kmGmEx2DI",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/rr_majunga/Fitia tsy anjara.mid",
-    "author": "RR Majunga",
+    "filePath": "assets/midi/albums/ndriana_ramamonjy/Rasalama.mid",
+    "author": "Ndriana Ramamonjy",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
       "id": "55PnYdBNHTPIMvXlErQl",
@@ -149,21 +149,7 @@
       "label": "Bàs Gasy"
     }
   },
-  {
-    "id": "SHpdAnjtqJjVeztNFnlN",
-    "title": "Ry Fanadinoana avia",
-    "albumId": "owCt6VkI1F7kmGmEx2DI",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/rr_majunga/Ry Fanadinoana avia.mid",
-    "author": "RR Majunga",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
+  
   {
     "id": "o4kEvfLHpG30EZBaV8cB",
     "title": "Mifankatiava ihany",
