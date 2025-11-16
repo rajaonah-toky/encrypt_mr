@@ -19,6 +19,7 @@ Song _$SongFromJson(Map<String, dynamic> json) => Song(
       musicGenreId: json['musicGenreId'] as String,
       inAppPrice: json['inAppPrice'] as String?,
       priceInDollars: (json['priceInDollars'] as num?)?.toDouble(),
+      imagePath: json['imagePath'] as String,
     );
 
 Map<String, dynamic> _$SongToJson(Song instance) {
@@ -41,6 +42,7 @@ Map<String, dynamic> _$SongToJson(Song instance) {
   val['isEnabled'] = instance.isEnabled;
   val['musicGenreId'] = instance.musicGenreId;
   val['albumId'] = instance.albumId;
+  val['imagePath'] = instance.imagePath;
   writeNotNull('midiData', instance.midiData);
   return val;
 }

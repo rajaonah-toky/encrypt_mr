@@ -16,6 +16,7 @@ class Song {
     required this.musicGenreId,
     this.inAppPrice,
     this.priceInDollars,
+    required this.imagePath,
   });
 
   final String title;
@@ -31,6 +32,7 @@ class Song {
   final String musicGenreId;
 
   final String albumId;
+  final String imagePath;
   List<int>? midiData;
 
   factory Song.fromJson(Map<String, dynamic> json) => _$SongFromJson(json);
@@ -48,6 +50,7 @@ class Song {
       'albumId': albumId,
       'midiData': midiData,
       'inAppPrice': inAppPrice,
+      'imagePath': imagePath,
     };
   }
 }

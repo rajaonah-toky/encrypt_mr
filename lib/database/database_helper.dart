@@ -24,7 +24,7 @@ class DatabaseHelper {
   }
 
   Future<Database> _initDatabase() async {
-    var path = await initDeleteDb('pianoty.db');
+    var path = await initDeleteDb('mickram.db');
     return await openDatabase(
       path,
       password: 'U2FGLTJWRC1AIw==',

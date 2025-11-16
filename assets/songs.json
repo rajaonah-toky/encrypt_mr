@@ -5,6 +5,7 @@
     "price": 10000,
     "isEnabled": false,
     "albumId": "112w3o2vMrdHbIP55u0F",
+    "imagePath": "assets/midi/albums/mialy_rakotomamonjy.jpg",
     "filePath": "assets/midi/albums/mialy_rakotomamonjy/Tiako loatra.mid",
     "author": "Mialy Rakotomamonjy",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
@@ -20,6 +21,7 @@
     "albumId": "n1y1Xyrv7uZo64eil31A",
     "price": 10000,
     "isEnabled": false,
+    "imagePath": "assets/midi/albums/joseph_d_af.jpg",
     "filePath": "assets/midi/albums/joseph_d_af/Rahoviana.mid",
     "author": "Joseph d'Af",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
@@ -37,6 +39,7 @@
     "isEnabled": false,
     "filePath": "assets/midi/albums/rija_rasolondraibe/Fohazo ny foko.mid",
     "author": "Rija Rasolondraibe",
+    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
       "id": "tFBjtZZ10OPqpgGKQf6b",
@@ -51,6 +54,7 @@
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/rija_rasolondraibe/Mahery aho.mid",
+    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
     "author": "Rija Rasolondraibe",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
@@ -65,6 +69,7 @@
     "albumId": "KMfG9awtqkGY7pUU23Fu",
     "price": 10000,
     "isEnabled": true,
+    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
     "filePath": "assets/midi/albums/rija_rasolondraibe/Mandohalika.mid",
     "author": "Rija Rasolondraibe",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
@@ -80,6 +85,7 @@
     "albumId": "TXx7Do8Og9xvXQoa0rVX",
     "price": 10000,
     "isEnabled": false,
+    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
     "filePath": "assets/midi/albums/fara_andriamamonjy/Jesoa vato fehizoro.mid",
     "author": "Fara Andriamamonjy",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
@@ -95,6 +101,7 @@
     "albumId": "TXx7Do8Og9xvXQoa0rVX",
     "price": 10000,
     "isEnabled": false,
+    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
     "filePath": "assets/midi/albums/fara_andriamamonjy/Tsara ianao.mid",
     "author": "Fara Andriamamonjy",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
@@ -110,6 +117,7 @@
     "albumId": "TXx7Do8Og9xvXQoa0rVX",
     "price": 10000,
     "isEnabled": true,
+    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
     "filePath": "assets/midi/albums/fara_andriamamonjy/Ampy ahy ny fahasoavanao.mid",
     "author": "Fara Andriamamonjy",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
@@ -126,6 +134,7 @@
     "price": 10000,
     "isEnabled": true,
     "filePath": "assets/midi/albums/fara_andriamamonjy/Ianao.mid",
+    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
     "author": "Fara Andriamamonjy",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
@@ -141,6 +150,7 @@
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/ndriana_ramamonjy/Rasalama.mid",
+     "imagePath": "assets/midi/albums/ndriana_ramamonjy.jpg",
     "author": "Ndriana Ramamonjy",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
@@ -149,15 +159,15 @@
       "label": "Bàs Gasy"
     }
   },
-  
   {
     "id": "o4kEvfLHpG30EZBaV8cB",
-    "title": "Mifankatiava ihany",
+    "title": "Tsy izay miseho anio",
     "albumId": "U0P723zLWzXkijXSEZoF",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/solika/Mifankatiava ihany.mid",
-    "author": "Naka Rabemanantsoa",
+    "imagePath": "assets/midi/albums/jocelyn_ranjarison.jpg",
+    "filePath": "assets/midi/albums/jocelyn_ranjarison/Tsy izay miseho anio.mid",
+    "author": "Jocely Ranjarison",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
       "id": "55PnYdBNHTPIMvXlErQl",
@@ -167,117 +177,13 @@
   },
   {
     "id": "ONtLUk1KmQj7IglAPXsv",
-    "title": "Ilay takariva kely",
+    "title": "Ambany elatrao",
     "albumId": "U0P723zLWzXkijXSEZoF",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/solika/ilay_tak.mid",
-    "author": "Justin RAJORO",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "WVOu7p8GHCzzWubAEHd9",
-    "title": "Vorompotsy",
-    "albumId": "U0P723zLWzXkijXSEZoF",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/solika/Vorompotsy.mid",
-    "author": "ANDRIAMANANTENA THERACK",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "8xtPKHK5C9JiNjT0rTpd",
-    "title": "Tsofiko rano",
-    "albumId": "U0P723zLWzXkijXSEZoF",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/solika/Tsofiko rano.mid",
-    "author": "Justin RAJORO",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "afvaUeTzMeb28LRSESsB",
-    "title": "Haody ry Analamangako",
-    "albumId": "U0P723zLWzXkijXSEZoF",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/solika/Haody ry Analamangako.mid",
-    "author": "Jean Ratsaramiafara",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "UIHXyWKtU11bOc30bCMz",
-    "title": "Miesora moa",
-    "albumId": "U0P723zLWzXkijXSEZoF",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/solika/Miesora moa.mid",
-    "author": "Justin RAJORO",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "nODP8GYrV7mxXYaylMG2",
-    "title": "Arahaban'Andriana",
-    "albumId": "U0P723zLWzXkijXSEZoF",
-    "price": 10000,
-    "isEnabled": true,
-    "filePath": "assets/midi/albums/solika/Arahaban_Andriana.mid",
-    "author": "Justin RAJORO",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "vNE08X73LscZ9YCAxBcl",
-    "title": "Bakobako roa",
-    "albumId": "U0P723zLWzXkijXSEZoF",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/solika/Bakobako roa.mid",
-    "author": "Andrianary Ratianarivo",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "0oikmCiG8Uuc9EIpk1e6",
-    "title": "Majunga ve",
-    "albumId": "U0P723zLWzXkijXSEZoF",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/solika/Majunga ve.mid",
-    "author": "Ranaivo Ranarivelo",
+    "imagePath": "assets/midi/albums/jocelyn_ranjarison.jpg",
+    "filePath": "assets/midi/albums/jocelyn_ranjarison/Ambany elatrao.mid",
+    "author": "Jocely Ranjarison",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
       "id": "55PnYdBNHTPIMvXlErQl",
@@ -287,11 +193,12 @@
   },
   {
     "id": "hJTp5tJm2jdtk3bgjSij",
-    "title": "Fitiavana",
-    "albumId": "5KBmAvHmVXIXWkWrzlHF",
+    "title": "Ampianaro",
+    "albumId": "8lMMQ2wVJaUJ8jjd1Kpg",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/variete/Fitiavana.mid",
+    "filePath": "assets/midi/albums/poopy/Ampianaro.mid",
+    "imagePath": "assets/midi/albums/poopy.jpg",
     "author": "Poopy",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
@@ -302,27 +209,61 @@
   },
   {
     "id": "JW1yUdwjAvDstlqMur1f",
-    "title": "Salamo 1",
+    "title": "Tsara andriamanitra",
     "albumId": "8lMMQ2wVJaUJ8jjd1Kpg",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/Gospel/salamo1.mid",
-    "author": "Ndriana Ramamonjy",
-    "musicGenreId": "SnMngC4jcXGG0OrmQpuF",
+    "filePath": "assets/midi/albums/poopy/Tsara andriamanitra.mid",
+    "imagePath": "assets/midi/albums/poopy.jpg",
+    "author": "Poopy",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
-      "id": "SnMngC4jcXGG0OrmQpuF",
-      "priority": 4,
-      "label": "Gospel"
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "JW1yUdwjAvDstlqMur1g",
+    "title": "Mpiahy",
+    "albumId": "8lMMQ2wVJaUJ8jjd1Kpg",
+    "price": 10000,
+    "isEnabled": false,
+    "filePath": "assets/midi/albums/poopy/Mpiahy.mid",
+    "imagePath": "assets/midi/albums/poopy.jpg",
+    "author": "Poopy",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
+    "musicGenre": {
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "JW1yUdwjAvDstlqMur1h",
+    "title": "Vavaka",
+    "albumId": "8lMMQ2wVJaUJ8jjd1Kpg",
+    "price": 10000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/poopy.jpg",
+    "filePath": "assets/midi/albums/poopy/Vavaka.mid",
+    "author": "Poopy",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
+    "musicGenre": {
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
     }
   },
   {
     "id": "T9nOjdZ0GgjO6vhD0ai9",
-    "title": "Andriamanitra tsy mandao",
-    "albumId": "8lMMQ2wVJaUJ8jjd1Kpg",
+    "title": "Manana anao",
+    "albumId": "5KBmAvHmVXIXWkWrzlHF",
     "price": 10000,
     "isEnabled": true,
-    "filePath": "assets/midi/albums/Gospel/atra_tsy.mid",
-    "author": "Laurent Rakotomamonjy",
+    "imagePath": "assets/midi/albums/gmmc.jpg",
+    "filePath": "assets/midi/albums/gmmc/Manana anao.mid",
+    "author": "GMMC",
     "musicGenreId": "SnMngC4jcXGG0OrmQpuF",
     "musicGenre": {
       "id": "SnMngC4jcXGG0OrmQpuF",
