@@ -1,57 +1,12 @@
 [
   {
     "id": "Ur27AzI1auIOo39jtPAt",
-    "title": "Havako anie",
+    "title": "Tiako loatra",
     "price": 10000,
     "isEnabled": false,
     "albumId": "112w3o2vMrdHbIP55u0F",
-    "filePath": "assets/midi/albums/barijaona/Havako anie.mid",
-    "author": "Barijaona",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "Pgs5o9Nc1KJmHHxUPA0c",
-    "title": "Tsy resy tsy akory",
-    "price": 10000,
-    "isEnabled": false,
-    "albumId": "112w3o2vMrdHbIP55u0F",
-    "filePath": "assets/midi/albums/barijaona/Mahareta.mid",
-    "author": "Barijaona",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "iJqrJSpuSlYVnMciiC0s",
-    "title": "Matoa e manonja",
-    "albumId": "112w3o2vMrdHbIP55u0F",
-    "price": 10000,
-    "isEnabled": true,
-    "filePath": "assets/midi/albums/barijaona/Matoa.mid",
-    "author": "Barijaona",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
-    "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "4K9HUj1CC0cpQt3LnnIL",
-    "title": "Vazon ny lavitra",
-    "price": 10000,
-    "isEnabled": false,
-    "albumId": "112w3o2vMrdHbIP55u0F",
-    "filePath": "assets/midi/albums/barijaona/Vazon ny lavitra.mid",
-    "author": "Barijaona",
+    "filePath": "assets/midi/albums/mialy_rakotomamonjy/Tiako loatra.mid",
+    "author": "Mialy Rakotomamonjy",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
       "id": "55PnYdBNHTPIMvXlErQl",
@@ -61,117 +16,12 @@
   },
   {
     "id": "80ZdHfR8RomNMy5vc8Wp",
-    "title": "Misy antony",
+    "title": "Rahoviana",
     "albumId": "n1y1Xyrv7uZo64eil31A",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/bessa_sy_lola/misy_antony.mid",
-    "author": "Bessa sy Lola",
-    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
-    "musicGenre": {
-      "id": "tFBjtZZ10OPqpgGKQf6b",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "K7kx2mFr32VyKlJfjnh4",
-    "title": "Bibilava",
-    "albumId": "n1y1Xyrv7uZo64eil31A",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/bessa_sy_lola/bibilava.mid",
-    "author": "Bessa sy Lola",
-    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
-    "musicGenre": {
-      "id": "tFBjtZZ10OPqpgGKQf6b",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "Y4zGBvom5gzumyKsoQlC",
-    "title": "Ny itiavako anao",
-    "albumId": "n1y1Xyrv7uZo64eil31A",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/bessa_sy_lola/Ny itiavako anao.mid",
-    "author": "Bessa sy Lola",
-    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
-    "musicGenre": {
-      "id": "tFBjtZZ10OPqpgGKQf6b",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "4zd99QvDA6mCHW6CQl0X",
-    "title": "Homena anao",
-    "albumId": "n1y1Xyrv7uZo64eil31A",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/bessa_sy_lola/homena_anao.mid",
-    "author": "Bessa sy Lola",
-    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
-    "musicGenre": {
-      "id": "tFBjtZZ10OPqpgGKQf6b",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "T4BFdpd6ZkZVbOqEsJQC",
-    "title": "Raha mbola misy tsiky",
-    "albumId": "n1y1Xyrv7uZo64eil31A",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/bessa_sy_lola/Raha mbola misy tsiky.mid",
-    "author": "Bessa sy Lola",
-    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
-    "musicGenre": {
-      "id": "tFBjtZZ10OPqpgGKQf6b",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "oA2Fy3Miul9o7qoO39eK",
-    "title": "Tadiavo Jesoa",
-    "albumId": "n1y1Xyrv7uZo64eil31A",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/bessa_sy_lola/Tadiavo Jesoa.mid",
-    "author": "Bessa sy Lola",
-    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
-    "musicGenre": {
-      "id": "tFBjtZZ10OPqpgGKQf6b",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "MICVIC2YBdMgs4Krm9mS",
-    "title": "Ianao no heriko",
-    "albumId": "n1y1Xyrv7uZo64eil31A",
-    "price": 10000,
-    "isEnabled": true,
-    "filePath": "assets/midi/albums/bessa_sy_lola/Ianao no heriko.mid",
-    "author": "Bessa sy Lola",
-    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
-    "musicGenre": {
-      "id": "tFBjtZZ10OPqpgGKQf6b",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "lJiWC1NqJKyZU80rdqv4",
-    "title": "Ny ampitso no hitsara",
-    "albumId": "n1y1Xyrv7uZo64eil31A",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/bessa_sy_lola/Ny ampitso no hitsara.mid",
-    "author": "Bessa sy Lola",
+    "filePath": "assets/midi/albums/joseph_d_af/Rahoviana.mid",
+    "author": "Joseph d'Af",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
       "id": "tFBjtZZ10OPqpgGKQf6b",
@@ -226,47 +76,62 @@
   },
   {
     "id": "ljXmm4BhNqq0J4CpGwsl",
-    "title": "Ekeko satria",
+    "title": "Jesoa vato fehizoro",
     "albumId": "TXx7Do8Og9xvXQoa0rVX",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/kintana_telo/Ekeko satria.mid",
-    "author": "Kintana Telo",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "filePath": "assets/midi/albums/fara_andriamamonjy/Jesoa vato fehizoro.mid",
+    "author": "Fara Andriamamonjy",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
     }
   },
   {
     "id": "SXXBFMPhuqpQDYpEZ9IK",
-    "title": "Ao ihany ve",
+    "title": "Tsara ianao",
     "albumId": "TXx7Do8Og9xvXQoa0rVX",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/kintana_telo/Ao ihany ve.mid",
-    "author": "Kintana Telo",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "filePath": "assets/midi/albums/fara_andriamamonjy/Tsara ianao.mid",
+    "author": "Fara Andriamamonjy",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
     }
   },
   {
     "id": "IuyFUQW5uH38NsWe2NDa",
-    "title": "Tsy sahiko",
+    "title": "Ampy ahy ny fahasoavanao",
     "albumId": "TXx7Do8Og9xvXQoa0rVX",
     "price": 10000,
     "isEnabled": true,
-    "filePath": "assets/midi/albums/kintana_telo/Tsy sahiko.mid",
-    "author": "Kintana Telo",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "filePath": "assets/midi/albums/fara_andriamamonjy/Ampy ahy ny fahasoavanao.mid",
+    "author": "Fara Andriamamonjy",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "IuyFUQW5uH38NsWe2NDb",
+    "title": "Ianao",
+    "albumId": "TXx7Do8Og9xvXQoa0rVX",
+    "price": 10000,
+    "isEnabled": true,
+    "filePath": "assets/midi/albums/fara_andriamamonjy/Ianao.mid",
+    "author": "Fara Andriamamonjy",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
+    "musicGenre": {
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
     }
   },
   {
