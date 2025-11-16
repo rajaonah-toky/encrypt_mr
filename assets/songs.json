@@ -185,43 +185,43 @@
     "albumId": "KMfG9awtqkGY7pUU23Fu",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/rija_rasolondraibe/Fohazo ny fokomid",
-    "author": "Henry Ratsimbazafy",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Fohazo ny foko.mid",
+    "author": "Rija Rasolondraibe",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
     }
   },
   {
     "id": "WCTnOCvqr0fV2T7Et5T8",
-    "title": "Fony aho",
+    "title": "Mahery aho",
     "albumId": "KMfG9awtqkGY7pUU23Fu",
     "price": 10000,
     "isEnabled": false,
-    "filePath": "assets/midi/albums/rija_rasolondraibe/Fony aho.mid",
-    "author": "Henry Ratsimbazafy",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Mahery aho.mid",
+    "author": "Rija Rasolondraibe",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
     }
   },
   {
     "id": "7St82umk2grHJs9uNd4O",
-    "title": "Anao no nindramiko",
+    "title": "Mandohalika",
     "albumId": "KMfG9awtqkGY7pUU23Fu",
     "price": 10000,
     "isEnabled": true,
-    "filePath": "assets/midi/albums/rija_rasolondraibe/Anao no nindramiko.mid",
-    "author": "Henry Ratsimbazafy",
-    "musicGenreId": "55PnYdBNHTPIMvXlErQl",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Mandohalika.mid",
+    "author": "Rija Rasolondraibe",
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
-      "id": "55PnYdBNHTPIMvXlErQl",
-      "priority": 2,
-      "label": "Bàs Gasy"
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
     }
   },
   {
