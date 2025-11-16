@@ -28,7 +28,7 @@ class DatabaseHelper {
     return await openDatabase(
       path,
       password: 'U2FGLTJWRC1AIw==',
-      version: 5,
+      version: 6,
       onCreate: _createDatabase,
     );
   }
@@ -91,6 +91,7 @@ class DatabaseHelper {
       albumId TEXT,
       midiData BLOB,
       inAppPrice TEXT,
+      imagePath TEXT,
       FOREIGN KEY(musicGenreId) REFERENCES music_genres(id),
       FOREIGN KEY(albumId) REFERENCES albums(id)
     )

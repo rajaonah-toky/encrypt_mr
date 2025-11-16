@@ -21,8 +21,8 @@
     "albumId": "n1y1Xyrv7uZo64eil31A",
     "price": 10000,
     "isEnabled": false,
-    "imagePath": "assets/midi/albums/joseph_d_af.jpg",
-    "filePath": "assets/midi/albums/joseph_d_af/Rahoviana.mid",
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Rahoviana.mid",
     "author": "Joseph d'Af",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
@@ -86,7 +86,7 @@
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
-    "filePath": "assets/midi/albums/fara_andriamamonjy/Jesoa vato fehizoro.mid",
+    "filePath": "assets/midi/albums/fara_andriamamonjy/Jesoa Vato fehizoro.mid",
     "author": "Fara Andriamamonjy",
     "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
     "musicGenre": {
@@ -150,7 +150,7 @@
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/ndriana_ramamonjy/Rasalama.mid",
-     "imagePath": "assets/midi/albums/ndriana_ramamonjy.jpg",
+    "imagePath": "assets/midi/albums/ndriana_ramamonjy.jpg",
     "author": "Ndriana Ramamonjy",
     "musicGenreId": "55PnYdBNHTPIMvXlErQl",
     "musicGenre": {
@@ -253,22 +253,6 @@
       "id": "tFBjtZZ10OPqpgGKQf6b",
       "priority": 3,
       "label": "Variétés"
-    }
-  },
-  {
-    "id": "T9nOjdZ0GgjO6vhD0ai9",
-    "title": "Manana anao",
-    "albumId": "5KBmAvHmVXIXWkWrzlHF",
-    "price": 10000,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/gmmc.jpg",
-    "filePath": "assets/midi/albums/gmmc/Manana anao.mid",
-    "author": "GMMC",
-    "musicGenreId": "SnMngC4jcXGG0OrmQpuF",
-    "musicGenre": {
-      "id": "SnMngC4jcXGG0OrmQpuF",
-      "priority": 4,
-      "label": "Gospel"
     }
   }
 ]

@@ -65,18 +65,17 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/midi/
     - assets/albums.json
     - assets/songs.json
     - assets/music_genres.json
     - assets/midi/albums/
-    - assets/midi/albums/henry_ratsimbazafy/
-    - assets/midi/albums/evangeliques/
-    - assets/midi/albums/barijaona/
-    - assets/midi/albums/bessa_sy_lola/
-    - assets/midi/albums/kintana_telo/
-    - assets/midi/albums/rr_majunga/
-    - assets/midi/albums/solika/
-    - assets/midi/albums/variete/
+    - assets/midi/albums/fara_andriamamonjy/
+    - assets/midi/albums/gmmc/
+    - assets/midi/albums/jocelyn_ranjarison/
+    - assets/midi/albums/joseph_d_a_f/
+    - assets/midi/albums/mialy_rakotomamonjy/
+    - assets/midi/albums/ndriana_ramamonjy/
+    - assets/midi/albums/poopy/
+    - assets/midi/albums/rija_rasolondraibe/
 
   
