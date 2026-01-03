@@ -28,7 +28,7 @@ class DatabaseHelper {
     return await openDatabase(
       path,
       password: 'U2FGLTJWRC1AIw==',
-      version: 6,
+      version: 9,
       onCreate: _createDatabase,
     );
   }
@@ -92,6 +92,9 @@ class DatabaseHelper {
       midiData BLOB,
       inAppPrice TEXT,
       imagePath TEXT,
+      hasMp3 INTEGER,
+      mp3FilePath TEXT,
+      mp3Offset INTEGER,
       FOREIGN KEY(musicGenreId) REFERENCES music_genres(id),
       FOREIGN KEY(albumId) REFERENCES albums(id)
     )
@@ -183,6 +186,35 @@ class DatabaseHelper {
     }
 
     return songs;
+  }
+
+  /// Get database path information for debugging
+  static Future<String> getDatabaseInfo() async {
+    try {
+      final databasePath = await getDatabasesPath();
+      final fullPath = join(databasePath, 'mickram.db');
+
+      String info = 'Database path: $fullPath\n';
+      info += 'Database directory: $databasePath\n';
+
+      // Check if database file exists
+      final dbFile = File(fullPath);
+      info += 'Database exists: ${await dbFile.exists()}\n';
+
+      if (await dbFile.exists()) {
+        final stat = await dbFile.stat();
+        info += 'Database size: ${stat.size} bytes\n';
+        info += 'Last modified: ${stat.modified}\n';
+      }
+
+      // Check if directory exists
+      final dir = Directory(databasePath);
+      info += 'Directory exists: ${await dir.exists()}';
+
+      return info;
+    } catch (e) {
+      return 'Error getting database info: $e';
+    }
   }
 
   Future<List<MusicGenre>> getMusicGenres() async {

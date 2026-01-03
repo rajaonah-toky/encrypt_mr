@@ -257,12 +257,28 @@
   },
   {
     "id": "pCGCzsmgu1nQVhb3vwOk",
-    "title": "Vavaka",
+    "title": "Manana anao",
     "albumId": "b2q8uTgNdia0xF3RPdBx",
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/gmmc.jpg",
     "filePath": "assets/midi/albums/gmmc/Manana anao.mid",
+    "author": "GMMC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "pCGCzsmgu1nQVhb3vwOl",
+    "title": "Mandodona",
+    "albumId": "b2q8uTgNdia0xF3RPdBx",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/gmmc.jpg",
+    "filePath": "assets/midi/albums/gmmc/Mandodona.mid",
     "author": "GMMC",
     "musicGenreId": "NoVGc5LUTJblkJjyat22",
     "musicGenre": {

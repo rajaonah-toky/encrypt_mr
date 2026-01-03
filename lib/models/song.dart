@@ -17,6 +17,9 @@ class Song {
     this.inAppPrice,
     this.priceInDollars,
     required this.imagePath,
+    this.hasMp3 = false,
+    this.mp3FilePath,
+    this.mp3Offset = 0,
   });
 
   final String title;
@@ -34,6 +37,9 @@ class Song {
   final String albumId;
   final String imagePath;
   List<int>? midiData;
+  final bool hasMp3;
+  final String? mp3FilePath;
+  final int mp3Offset;
 
   factory Song.fromJson(Map<String, dynamic> json) => _$SongFromJson(json);
   Map<String, dynamic> toJson() => _$SongToJson(this);
@@ -51,6 +57,9 @@ class Song {
       'midiData': midiData,
       'inAppPrice': inAppPrice,
       'imagePath': imagePath,
+      'hasMp3': hasMp3 ? 1 : 0,
+      'mp3FilePath': mp3FilePath,
+      'mp3Offset': mp3Offset,
     };
   }
 }

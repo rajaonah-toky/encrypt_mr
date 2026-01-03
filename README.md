@@ -19,6 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 dart run build_runner build --delete-conflicting-outputs
 
 
+adb shell run-as com.example.encrypt_mc cat databases/mickram.db > /tmp/mickram.db
+
+
 
 test('Open asset database', () async {
       var databasesPath = await getDatabasesPath();
@@ -60,3 +63,5 @@ test('Open asset database', () async {
     data/data/com.example.encryp
 
 
+
+adb shell run-as com.example.encrypt_mc cat databases/mickram.db > ./mickram.db

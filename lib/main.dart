@@ -1,6 +1,7 @@
 import 'package:encrypt_mc/models/album.dart';
 import 'package:encrypt_mc/models/music_genre.dart';
 import 'package:flutter/material.dart';
+import 'package:sqflite_sqlcipher/sqflite.dart';
 import 'database/database_helper.dart';
 import 'models/song.dart';
 import 'utils/assets_utils.dart';
@@ -108,6 +109,24 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text('Convert JSON to DB'),
             Text('CONVER', style: Theme.of(context).textTheme.headlineMedium),
+            const SizedBox(height: 20),
+            ElevatedButton(
+              onPressed: () async {
+                String dbInfo = await DatabaseHelper.getDatabaseInfo();
+                debugPrint('=== DATABASE INFO ===');
+                debugPrint(dbInfo);
+                debugPrint('===================');
+                if (mounted) {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    SnackBar(
+                      content: Text('Database info printed to console'),
+                      duration: Duration(seconds: 2),
+                    ),
+                  );
+                }
+              },
+              child: Text('Show Database Info'),
+            ),
           ],
         ),
       ),
@@ -120,22 +139,61 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Future<void> convert() async {
-    musicGenres = await AssetFetcher.loadMusicGenres();
-    songs = await AssetFetcher.loadSongs();
-    albums = await AssetFetcher.loadAlbums();
+    try {
+      debugPrint('Starting conversion...');
+      
+      // Load data from assets
+      musicGenres = await AssetFetcher.loadMusicGenres();
+      songs = await AssetFetcher.loadSongs();
+      albums = await AssetFetcher.loadAlbums();
+      
+      debugPrint('Loaded ${musicGenres!.length} music genres');
+      debugPrint('Loaded ${songs!.length} songs');
+      debugPrint('Loaded ${albums!.length} albums');
 
-    for (MusicGenre musicGenre in musicGenres!) {
-      await DatabaseHelper.instance.insertMusicGenre(musicGenre);
+      // Insert music genres
+      for (MusicGenre musicGenre in musicGenres!) {
+        try {
+          await DatabaseHelper.instance.insertMusicGenre(musicGenre);
+        } catch (e) {
+          debugPrint('Error inserting music genre ${musicGenre.id}: $e');
+        }
+      }
+
+      // Insert songs
+      for (Song song in songs!) {
+        try {
+          await DatabaseHelper.instance.insertSong(song);
+        } catch (e) {
+          debugPrint('Error inserting song ${song.id}: $e');
+        }
+      }
+
+      // Insert albums
+      for (Album album in albums!) {
+        try {
+          await DatabaseHelper.instance.insertAlbum(album);
+        } catch (e) {
+          debugPrint('Error inserting album ${album.id}: $e');
+        }
+      }
+
+      debugPrint('Conversion completed successfully!');
+      
+      // Show database path for debugging
+      String dbInfo = await DatabaseHelper.getDatabaseInfo();
+      debugPrint('=== DATABASE INFO ===');
+      debugPrint(dbInfo);
+      debugPrint('===================');
+      
+    } catch (e) {
+      debugPrint('Error during conversion: $e');
+      // Optionally show error to user
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Erreur lors de la conversion: $e')),
+        );
+      }
     }
-
-    for (Song song in songs!) {
-      await DatabaseHelper.instance.insertSong(song);
-    }
-
-    for (Album album in albums!) {
-      await DatabaseHelper.instance.insertAlbum(album);
-    }
-
-    debugPrint('fin!');
   }
 }
