@@ -1,10 +1,10 @@
 [
   {
-    "id": "vpCJ5SaY3ESYlmB0OlON",
+    "id": "A1bC2dE3fG4hI5jK6lM7",
     "title": "Tiako loatra",
     "price": 10000,
     "isEnabled": false,
-    "albumId": "661FTqGQcfQsPoe4Z6dJ",
+    "albumId": "P8qR9sT0uV1wX2yZ3aB4",
     "imagePath": "assets/midi/albums/mialy_rakotomamonjy.jpg",
     "filePath": "assets/midi/albums/mialy_rakotomamonjy/Tiako loatra.mid",
     "author": "Mialy Rakotomamonjy",
@@ -19,9 +19,9 @@
     }
   },
   {
-    "id": "9gsIgXoHG048A5gVgM1f",
+    "id": "N8oP9qR0sT1uV2wX3yZ4",
     "title": "Rahoviana",
-    "albumId": "7Wffxh3YGskQ6eHJDdw4",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
@@ -38,9 +38,9 @@
     }
   },
   {
-    "id": "oFRSwrJS2y7u6WnjWpe7",
+    "id": "A5bC6dE7fG8hI9jK0lM1",
     "title": "Fohazo ny foko",
-    "albumId": "fGQOiE56CJXD1f3G9qYP",
+    "albumId": "C1dE2fG3hI4jK5lM6nO7",
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/rija_rasolondraibe/Fohazo ny foko.mid",
@@ -57,9 +57,9 @@
     }
   },
   {
-    "id": "8LnJXOv4eyxDxDSi5q8V",
+    "id": "N2oP3qR4sT5uV6wX7yZ8",
     "title": "Mahery aho",
-    "albumId": "fGQOiE56CJXD1f3G9qYP",
+    "albumId": "C1dE2fG3hI4jK5lM6nO7",
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/rija_rasolondraibe/Mahery aho.mid",
@@ -76,9 +76,9 @@
     }
   },
   {
-    "id": "ma7pyDagc6milwkADqe0",
+    "id": "A9bC0dE1fG2hI3jK4lM5",
     "title": "Mandohalika",
-    "albumId": "fGQOiE56CJXD1f3G9qYP",
+    "albumId": "C1dE2fG3hI4jK5lM6nO7",
     "price": 10000,
     "isEnabled": true,
     "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
@@ -95,9 +95,9 @@
     }
   },
   {
-    "id": "lM0pH1ZEKQB3n5IRbV0p",
+    "id": "N6oP7qR8sT9uV0wX1yZ2",
     "title": "Jesoa vato fehizoro",
-    "albumId": "uDCV5NP95TgM1DjB0MDh",
+    "albumId": "P2qR3sT4uV5wX6yZ7aB8",
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
@@ -114,9 +114,9 @@
     }
   },
   {
-    "id": "ksiiU1o4E9MbRXNd9o51",
+    "id": "A3bC4dE5fG6hI7jK8lM9",
     "title": "Tsara ianao",
-    "albumId": "uDCV5NP95TgM1DjB0MDh",
+    "albumId": "P2qR3sT4uV5wX6yZ7aB8",
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
@@ -133,9 +133,9 @@
     }
   },
   {
-    "id": "KQS3qPA47YlxuVs853tn",
+    "id": "N0oP1qR2sT3uV4wX5yZ6",
     "title": "Ampy ahy ny fahasoavanao",
-    "albumId": "uDCV5NP95TgM1DjB0MDh",
+    "albumId": "P2qR3sT4uV5wX6yZ7aB8",
     "price": 10000,
     "isEnabled": true,
     "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
@@ -152,9 +152,9 @@
     }
   },
   {
-    "id": "tHM0X35CfEWI8LguUtTN",
+    "id": "A7bC8dE9fG0hI1jK2lM3",
     "title": "Ianao",
-    "albumId": "uDCV5NP95TgM1DjB0MDh",
+    "albumId": "P2qR3sT4uV5wX6yZ7aB8",
     "price": 10000,
     "isEnabled": true,
     "filePath": "assets/midi/albums/fara_andriamamonjy/Ianao.mid",
@@ -171,9 +171,9 @@
     }
   },
   {
-    "id": "a8McR5NePduBnid517s7",
+    "id": "N4oP5qR6sT7uV8wX9yZ0",
     "title": "Rasalama",
-    "albumId": "yRSN1NhFdoQYjziZMVD7",
+    "albumId": "C9dE0fG1hI2jK3lM4nO5",
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/ndriana_ramamonjy/Rasalama.mid",
@@ -190,9 +190,9 @@
     }
   },
   {
-    "id": "pnlkGIpuTNByrqLWV8YF",
+    "id": "B1cD2eF3gH4iJ5kL6mN7",
     "title": "Tsy izay miseho anio",
-    "albumId": "TkYYy7Lc4aoHXndfgpRU",
+    "albumId": "P6qR7sT8uV9wX0yZ1aB2",
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/jocelyn_ranjarison.jpg",
@@ -209,9 +209,9 @@
     }
   },
   {
-    "id": "jCAtNzNEtFIAK6DMKeIq",
+    "id": "O8pQ9rS0tU1vW2xY3zA4",
     "title": "Ambany elatrao",
-    "albumId": "TkYYy7Lc4aoHXndfgpRU",
+    "albumId": "P6qR7sT8uV9wX0yZ1aB2",
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/jocelyn_ranjarison.jpg",
@@ -228,9 +228,9 @@
     }
   },
   {
-    "id": "5TFIK5rvJs1Ek2a1NTcV",
+    "id": "B5cD6eF7gH8iJ9kL0mN1",
     "title": "Ampianaro",
-    "albumId": "88pbBWRS9O9aCzeos3SX",
+    "albumId": "P0qR1sT2uV3wX4yZ5aB6",
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/poopy/Ampianaro.mid",
@@ -247,9 +247,9 @@
     }
   },
   {
-    "id": "xUTbcxIIBaOLLvd41sNv",
+    "id": "O2pQ3rS4tU5vW6xY7zA8",
     "title": "Tsara andriamanitra",
-    "albumId": "88pbBWRS9O9aCzeos3SX",
+    "albumId": "P0qR1sT2uV3wX4yZ5aB6",
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/poopy/Tsara andriamanitra.mid",
@@ -266,9 +266,9 @@
     }
   },
   {
-    "id": "i2b2j0hE2ZiGdeypGN0D",
+    "id": "B9cD0eF1gH2iJ3kL4mN5",
     "title": "Mpiahy",
-    "albumId": "88pbBWRS9O9aCzeos3SX",
+    "albumId": "P0qR1sT2uV3wX4yZ5aB6",
     "price": 10000,
     "isEnabled": false,
     "filePath": "assets/midi/albums/poopy/Mpiahy.mid",
@@ -285,18 +285,18 @@
     }
   },
   {
-    "id": "yhvz5buQpJWCWSpo1pf9",
+    "id": "O6pQ7rS8tU9vW0xY1zA2",
     "title": "Vavaka",
-    "albumId": "88pbBWRS9O9aCzeos3SX",
+    "albumId": "P0qR1sT2uV3wX4yZ5aB6",
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/poopy.jpg",
     "filePath": "assets/midi/albums/poopy/Vavaka.mid",
     "author": "Poopy",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
     "hasMp3": false,
     "mp3FilePath": "assets/mp3/albums/poopy/Vavaka.mp3",
     "mp3Offset": 0,
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
     "musicGenre": {
       "id": "qGy00cbBBCgihzMzDPII",
       "priority": 3,
@@ -304,9 +304,9 @@
     }
   },
   {
-    "id": "pCGCzsmgu1nQVhb3vwOk",
+    "id": "B3cD4eF5gH6iJ7kL8mN9",
     "title": "Manana anao",
-    "albumId": "b2q8uTgNdia0xF3RPdBx",
+    "albumId": "C3dE4fG5hI6jK7lM8nO9",
     "price": 10000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/gmmc.jpg",
@@ -323,19 +323,174 @@
     }
   },
   {
-    "id": "pCGCzsmgu1nQVhb3vwOl",
+    "id": "O0pQ1rS2tU3vW4xY5zA6",
     "title": "Mandodona",
-    "albumId": "b2q8uTgNdia0xF3RPdBx",
+    "albumId": "RzVRnr3A4jXEWKHrDSum",
     "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 1800,
     "isEnabled": true,
-    "imagePath": "assets/midi/albums/gmmc.jpg",
-    "filePath": "assets/midi/albums/gmmc/Mandodona.mid",
-    "author": "GMMC",
+    "imagePath": "assets/midi/albums/tgc.jpg",
+    "mp3FilePath": "assets/mp3/albums/tgc/Mandodona.mp3",
+    "filePath": "assets/midi/albums/tgc/Mandodona.mid",
+    "author": "TGC",
     "musicGenreId": "NoVGc5LUTJblkJjyat22",
     "musicGenre": {
       "id": "NoVGc5LUTJblkJjyat22",
       "priority": 4,
       "label": "Gospel"
+    }
+  },
+  {
+    "id": "GCMaxeZON8ulSkK4tBAw",
+    "title": "Antompisiako",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 0,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Antompisiako.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Antompisiako.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "fiFbn1lBgxVhkHGi8AaJ",
+    "title": "Babo",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 0,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Babo.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Babo.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "ur2j8KFZ08ufS6ffgjdM",
+    "title": "Fiantahantako",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 0,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Fiantahantako.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Fiantahantako.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "9FyGuUwyqFwzPfUsaunl",
+    "title": "Ianao foana",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 0,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Ianao foana.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Ianao foana.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "ZHVc4cUHvpcSVqGIMp3Q",
+    "title": "Omany ny mandrakizay",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 0,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Omany ny mandrakizay.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Omany ny mandrakizay.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "QhcQxzbOaxoDekavMuBu",
+    "title": "Vita sedra",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 0,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Vita sedra.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Vita sedra.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "skBxauhHGXoFDqB83i2a",
+    "title": "Voady",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 0,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Voady.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Voady.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "rN5wQxalt7jKTqQFiRtC",
+    "title": "Voky fitahiana",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 10000,
+    "hasMp3": true,
+    "mp3Offset": 0,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Voky fitahiana.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Voky fitahiana.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
     }
   }
 ]

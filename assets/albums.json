@@ -1,6 +1,6 @@
 [
   {
-    "id": "fGQOiE56CJXD1f3G9qYP",
+    "id": "C1dE2fG3hI4jK5lM6nO7",
     "title": "",
     "artistName": "Rija Rasolondraibe",
     "folderPath": "assets/midi/albums/rija_rasolondraibe/",
@@ -14,7 +14,7 @@
     }
   },
   {
-    "id": "661FTqGQcfQsPoe4Z6dJ",
+    "id": "P8qR9sT0uV1wX2yZ3aB4",
     "title": "",
     "artistName": "Mialy Rakotomamonjy",
     "folderPath": "assets/midi/albums/mialy_rakotomamonjy/",
@@ -28,7 +28,7 @@
     }
   },
   {
-    "id": "7Wffxh3YGskQ6eHJDdw4",
+    "id": "C5dE6fG7hI8jK9lM0nO1",
     "title": "",
     "artistName": "Joseph d'Af",
     "folderPath": "assets/midi/albums/joseph_d_a_f/",
@@ -42,7 +42,7 @@
     }
   },
   {
-    "id": "uDCV5NP95TgM1DjB0MDh",
+    "id": "P2qR3sT4uV5wX6yZ7aB8",
     "title": "",
     "artistName": "Fara Andriamamonjy",
     "folderPath": "assets/midi/albums/fara_andriamamonjy/",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "id": "yRSN1NhFdoQYjziZMVD7",
+    "id": "C9dE0fG1hI2jK3lM4nO5",
     "title": "",
     "artistName": "Ndriana Ramamonjy",
     "folderPath": "assets/midi/albums/ndriana_ramamonjy/",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "id": "TkYYy7Lc4aoHXndfgpRU",
+    "id": "P6qR7sT8uV9wX0yZ1aB2",
     "title": "",
     "artistName": "Jocelyn Ranjarison",
     "imagePath": "assets/midi/albums/jocelyn_ranjarison.jpg",
@@ -84,7 +84,7 @@
     }
   },
   {
-    "id": "b2q8uTgNdia0xF3RPdBx",
+    "id": "C3dE4fG5hI6jK7lM8nO9",
     "title": "",
     "artistName": "GMMC",
     "imagePath": "assets/midi/albums/gmmc.jpg",
@@ -98,12 +98,39 @@
     }
   },
   {
-    "id": "88pbBWRS9O9aCzeos3SX",
+    "id": "P0qR1sT2uV3wX4yZ5aB6",
     "title": "",
     "artistName": "Poopy",
     "imagePath": "assets/midi/albums/poopy.jpg",
     "folderPath": "assets/midi/albums/poopy/",
     "price": 20000,
+    "musicGenreId": "SnMngC4jcXGG0OrmQpuF",
+    "musicGenre": {
+      "id": "SnMngC4jcXGG0OrmQpuF",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "gq9f03l0ZyZetyU1jny0",
+    "title": "",
+    "artistName": "Rojo Ny Avo",
+    "folderPath": "assets/midi/albums/rojo_ny_avo/",
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "price": 20000,
+    "musicGenreId": "tFBjtZZ10OPqpgGKQf6b",
+    "musicGenre": {
+      "id": "tFBjtZZ10OPqpgGKQf6b",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "RzVRnr3A4jXEWKHrDSum",
+    "title": "",
+    "artistName": "TGC",
+    "folderPath": "assets/midi/albums/tgc/",
+    "imagePath": "assets/midi/albums/tgc.jpg",
     "musicGenreId": "SnMngC4jcXGG0OrmQpuF",
     "musicGenre": {
       "id": "SnMngC4jcXGG0OrmQpuF",
