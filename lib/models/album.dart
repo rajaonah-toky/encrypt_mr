@@ -10,7 +10,7 @@ class Album {
     this.title,
     required this.artistName,
     required this.imagePath,
-    required this.price,
+    this.price = 0.0,
     required this.musicGenreId,
     this.priceInDollars = 4.99,
     this.inAppPrice = '5000 Ar',

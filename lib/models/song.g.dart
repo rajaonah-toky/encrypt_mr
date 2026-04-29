@@ -11,7 +11,7 @@ Song _$SongFromJson(Map<String, dynamic> json) => Song(
       title: json['title'] as String,
       filePath: json['filePath'] as String,
       author: json['author'] as String,
-      price: (json['price'] as num).toDouble(),
+      price: (json['price'] as num?)?.toDouble() ?? 0.0,
       isEnabled: json['isEnabled'] as bool? ?? false,
       midiData:
           (json['midiData'] as List<dynamic>?)?.map((e) => e as int).toList(),

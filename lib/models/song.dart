@@ -9,7 +9,7 @@ class Song {
     required this.title,
     required this.filePath,
     required this.author,
-    required this.price,
+    this.price = 0.0,
     this.isEnabled = false,
     this.midiData,
     required this.albumId,

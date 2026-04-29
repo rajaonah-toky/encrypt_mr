@@ -14,7 +14,7 @@ Album _$AlbumFromJson(Map<String, dynamic> json) => Album(
       title: json['title'] as String?,
       artistName: json['artistName'] as String,
       imagePath: json['imagePath'] as String,
-      price: (json['price'] as num).toDouble(),
+      price: (json['price'] as num?)?.toDouble() ?? 0.0,
       musicGenreId: json['musicGenreId'] as String,
       priceInDollars: (json['priceInDollars'] as num?)?.toDouble() ?? 4.99,
       inAppPrice: json['inAppPrice'] as String? ?? '5000 Ar',

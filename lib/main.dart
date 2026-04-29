@@ -141,12 +141,12 @@ class _MyHomePageState extends State<MyHomePage> {
   Future<void> convert() async {
     try {
       debugPrint('Starting conversion...');
-      
+
       // Load data from assets
       musicGenres = await AssetFetcher.loadMusicGenres();
       songs = await AssetFetcher.loadSongs();
       albums = await AssetFetcher.loadAlbums();
-      
+
       debugPrint('Loaded ${musicGenres!.length} music genres');
       debugPrint('Loaded ${songs!.length} songs');
       debugPrint('Loaded ${albums!.length} albums');
@@ -179,13 +179,12 @@ class _MyHomePageState extends State<MyHomePage> {
       }
 
       debugPrint('Conversion completed successfully!');
-      
+
       // Show database path for debugging
       String dbInfo = await DatabaseHelper.getDatabaseInfo();
       debugPrint('=== DATABASE INFO ===');
       debugPrint(dbInfo);
       debugPrint('===================');
-      
     } catch (e) {
       debugPrint('Error during conversion: $e');
       // Optionally show error to user
