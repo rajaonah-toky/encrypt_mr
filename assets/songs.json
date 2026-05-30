@@ -19,25 +19,6 @@
     }
   },
   {
-    "id": "N8oP9qR0sT1uV2wX3yZ4",
-    "title": "Rahoviana",
-    "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": false,
-    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
-    "filePath": "assets/midi/albums/joseph_d_a_f/Rahoviana.mid",
-    "author": "Joseph d'Af",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Rahoviana.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
     "id": "A5bC6dE7fG8hI9jK0lM1",
     "title": "Fohazo ny foko",
     "albumId": "C1dE2fG3hI4jK5lM6nO7",
@@ -487,6 +468,158 @@
     "filePath": "assets/midi/albums/rojo_ny_avo/Voky fitahiana.mid",
     "author": "Rojo Ny Avo",
     "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "Xy7zA8bC9dE0fG1hI2j",
+    "title": "Fahasoavanao",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Fahasoavanao.mid",
+    "author": "Joseph d'Af",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Fahasoavanao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "K3lM4nO5pQ6rS7tU8v",
+    "title": "Fanotronany",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Fanotronany.mid",
+    "author": "Joseph d'Af",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Fanotronany.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "W9xY0zA1bC2dE3fG4h",
+    "title": "Fitiavana Voalohany",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Fitiavana Voalohany.mid",
+    "author": "Joseph d'Af",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Fitiavana Voalohany.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "I5jK6lM7nO8pQ9rS0t",
+    "title": "Ianao no Andriamanitro",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Ianao no Andriamanitro.mid",
+    "author": "Joseph d'Af",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Ianao no Andriamanitro.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "U1vW2xY3zA4bC5dE6f",
+    "title": "Kalvary",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Kalvary.mid",
+    "author": "Joseph d'Af",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Kalvary.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "G7hI8jK9lM0nO1pQ2r",
+    "title": "Rahoviana",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Rahoviana.mid",
+    "author": "Joseph d'Af",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Rahoviana.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "S3tU4vW5xY6zA7bC8d",
+    "title": "Tena fitiavana",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Tena fitiavana.mid",
+    "author": "Joseph d'Af",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Tena fitiavana.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "E9fG0hI1jK2lM3nO4p",
+    "title": "Tsy hangina",
+    "albumId": "C5dE6fG7hI8jK9lM0nO1",
+    "price": 10000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
+    "filePath": "assets/midi/albums/joseph_d_a_f/Tsy hangina.mid",
+    "author": "Joseph d'Af",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/joseph_d_a_f/Tsy hangina.mp3",
+    "mp3Offset": 0,
     "musicGenre": {
       "id": "qGy00cbBBCgihzMzDPII",
       "priority": 3,

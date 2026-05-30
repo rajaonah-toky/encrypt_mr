@@ -22,6 +22,9 @@ dart run build_runner build --delete-conflicting-outputs
 adb shell run-as com.example.encrypt_mc cat databases/mickram.db > /tmp/mickram.db
 
 
+cp /tmp/mickram.db /Users/aidesnsoft/FlutterProject/fastforward/encrypt_mc/mickram.db
+
+
 
 test('Open asset database', () async {
       var databasesPath = await getDatabasesPath();
