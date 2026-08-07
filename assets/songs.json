@@ -151,7 +151,6 @@
       "label": "Variétés"
     }
   },
-  // ==================== Rojo Ny Avo (inchangé) ====================
   {
     "id": "GCMaxeZON8ulSkK4tBAw",
     "title": "Antompisiako",
@@ -304,7 +303,6 @@
       "label": "Variétés"
     }
   },
-  // ==================== Jaws Band ====================
   {
     "id": "JawsBandSng001",
     "title": "Efa lera",
@@ -438,7 +436,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== TGC ====================
   {
     "id": "TGCSng0000001",
     "title": "Ny Fanatrehanao",
@@ -503,11 +500,11 @@
     "price": 5000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/tgc.jpg",
-    "filePath": "assets/midi/albums/tgc/Misaora an'i Jéhova.mid",
+    "filePath": "assets/midi/albums/tgc/MisaoraJehova.mid",
     "author": "TGC",
     "musicGenreId": "NoVGc5LUTJblkJjyat22",
     "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/tgc/Misaora an'i Jéhova.mp3",
+    "mp3FilePath": "assets/mp3/albums/tgc/MisaoraJehova.mp3",
     "mp3Offset": 0,
     "musicGenre": {
       "id": "NoVGc5LUTJblkJjyat22",
@@ -534,7 +531,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== Vonjy ====================
   {
     "id": "VonjySng000001",
     "title": "Tarigetra",
@@ -649,7 +645,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== New Called ====================
   {
     "id": "NewCalledSng001",
     "title": "Masina Ianao",
@@ -745,7 +740,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== Rija Rasolondraibe ====================
   {
     "id": "RijaRasolSng01",
     "title": "Mahay manao ny Zavatra rehetra",
@@ -803,7 +797,6 @@
       "label": "Variétés"
     }
   },
-  // ==================== The Singers of Jesus ====================
   {
     "id": "SingersJsSng001",
     "title": "Mandondona",
@@ -861,7 +854,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== Pasteur Jocelyn ====================
   {
     "id": "PastJocSng0001",
     "title": "Ambany Elatrao",
@@ -919,7 +911,6 @@
       "label": "Variétés"
     }
   },
-  // ==================== GMMC ====================
   {
     "id": "GMMCSng0000001",
     "title": "Ianao Mahalala",
@@ -977,7 +968,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== Kirk Franklin ====================
   {
     "id": "KirkFranklinS01",
     "title": "Don't Cry",
@@ -1035,7 +1025,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== TMI / Tanora Masina Itaosy ====================
   {
     "id": "TMISng00000001",
     "title": "Kalvary",
@@ -1074,7 +1063,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== Ny Mpitory ====================
   {
     "id": "NyMpitorySng01",
     "title": "FF42",
@@ -1151,7 +1139,6 @@
       "label": "Variétés"
     }
   },
-  // ==================== Bodokeky ====================
   {
     "id": "BodokekySng001",
     "title": "Mino Aho",
@@ -1209,7 +1196,6 @@
       "label": "Gospel"
     }
   },
-  // ==================== Autres ====================
   {
     "id": "AutresSng000050",
     "title": "Tantano",
