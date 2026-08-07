@@ -69,16 +69,21 @@ flutter:
     - assets/songs.json
     - assets/music_genres.json
     - assets/midi/albums/
-    - assets/midi/albums/fara_andriamamonjy/
+    - assets/midi/albums/autres/
     - assets/midi/albums/gmmc/
-    - assets/midi/albums/jocelyn_ranjarison/
+    - assets/midi/albums/bodokeky/
     - assets/midi/albums/joseph_d_a_f/
-    - assets/midi/albums/mialy_rakotomamonjy/
-    - assets/midi/albums/ndriana_ramamonjy/
-    - assets/midi/albums/poopy/
+    - assets/midi/albums/pasteur_jocelyn/
+    - assets/midi/albums/kirk_franklin/
+    - assets/midi/albums/the_singers_of_jesus/
     - assets/midi/albums/rija_rasolondraibe/
     - assets/midi/albums/tgc/
     - assets/midi/albums/rojo_ny_avo/
+    - assets/midi/albums/jaws_band/
+    - assets/midi/albums/new_called/
+    - assets/midi/albums/ny_mpitory/
+    - assets/midi/albums/tmi/
+    - assets/midi/albums/vonjy/
 
 
   

@@ -28,7 +28,7 @@ class DatabaseHelper {
     return await openDatabase(
       path,
       password: 'U2FGLTJWRC1AIw==',
-      version: 9,
+      version: 1,
       onCreate: _createDatabase,
     );
   }
