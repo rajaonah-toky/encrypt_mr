@@ -809,7 +809,7 @@
     "musicGenreId": "NoVGc5LUTJblkJjyat22",
     "hasMp3": true,
     "mp3FilePath": "assets/mp3/albums/the_singers_of_jesus/Mandondona.mp3",
-    "mp3Offset": 0,
+    "mp3Offset": 1800,
     "musicGenre": {
       "id": "NoVGc5LUTJblkJjyat22",
       "priority": 4,
