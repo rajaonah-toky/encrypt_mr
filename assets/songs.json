@@ -1,485 +1,10 @@
 [
   {
-    "id": "A1bC2dE3fG4hI5jK6lM7",
-    "title": "Tiako loatra",
-    "price": 10000,
-    "isEnabled": false,
-    "albumId": "P8qR9sT0uV1wX2yZ3aB4",
-    "imagePath": "assets/midi/albums/mialy_rakotomamonjy.jpg",
-    "filePath": "assets/midi/albums/mialy_rakotomamonjy/Tiako loatra.mid",
-    "author": "Mialy Rakotomamonjy",
-    "musicGenreId": "twGf3zHsXsx0X6067EAt",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/mialy_rakotomamonjy/Tiako loatra.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "twGf3zHsXsx0X6067EAt",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "A5bC6dE7fG8hI9jK0lM1",
-    "title": "Fohazo ny foko",
-    "albumId": "C1dE2fG3hI4jK5lM6nO7",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/rija_rasolondraibe/Fohazo ny foko.mid",
-    "author": "Rija Rasolondraibe",
-    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/rija_rasolondraibe/Fohazo ny foko.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "N2oP3qR4sT5uV6wX7yZ8",
-    "title": "Mahery aho",
-    "albumId": "C1dE2fG3hI4jK5lM6nO7",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/rija_rasolondraibe/Mahery aho.mid",
-    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
-    "author": "Rija Rasolondraibe",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/rija_rasolondraibe/Mahery aho.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "A9bC0dE1fG2hI3jK4lM5",
-    "title": "Mandohalika",
-    "albumId": "C1dE2fG3hI4jK5lM6nO7",
-    "price": 10000,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
-    "filePath": "assets/midi/albums/rija_rasolondraibe/Mandohalika.mid",
-    "author": "Rija Rasolondraibe",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/rija_rasolondraibe/Mandohalika.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "N6oP7qR8sT9uV0wX1yZ2",
-    "title": "Jesoa vato fehizoro",
-    "albumId": "P2qR3sT4uV5wX6yZ7aB8",
-    "price": 10000,
-    "isEnabled": false,
-    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
-    "filePath": "assets/midi/albums/fara_andriamamonjy/Jesoa Vato fehizoro.mid",
-    "author": "Fara Andriamamonjy",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/fara_andriamamonjy/Jesoa Vato fehizoro.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "A3bC4dE5fG6hI7jK8lM9",
-    "title": "Tsara ianao",
-    "albumId": "P2qR3sT4uV5wX6yZ7aB8",
-    "price": 10000,
-    "isEnabled": false,
-    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
-    "filePath": "assets/midi/albums/fara_andriamamonjy/Tsara ianao.mid",
-    "author": "Fara Andriamamonjy",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/fara_andriamamonjy/Tsara ianao.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "N0oP1qR2sT3uV4wX5yZ6",
-    "title": "Ampy ahy ny fahasoavanao",
-    "albumId": "P2qR3sT4uV5wX6yZ7aB8",
-    "price": 10000,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
-    "filePath": "assets/midi/albums/fara_andriamamonjy/Ampy ahy ny fahasoavanao.mid",
-    "author": "Fara Andriamamonjy",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/fara_andriamamonjy/Ampy ahy ny fahasoavanao.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "A7bC8dE9fG0hI1jK2lM3",
-    "title": "Ianao",
-    "albumId": "P2qR3sT4uV5wX6yZ7aB8",
-    "price": 10000,
-    "isEnabled": true,
-    "filePath": "assets/midi/albums/fara_andriamamonjy/Ianao.mid",
-    "imagePath": "assets/midi/albums/fara_andriamamonjy.jpg",
-    "author": "Fara Andriamamonjy",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/fara_andriamamonjy/Ianao.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "N4oP5qR6sT7uV8wX9yZ0",
-    "title": "Rasalama",
-    "albumId": "C9dE0fG1hI2jK3lM4nO5",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/ndriana_ramamonjy/Rasalama.mid",
-    "imagePath": "assets/midi/albums/ndriana_ramamonjy.jpg",
-    "author": "Ndriana Ramamonjy",
-    "musicGenreId": "twGf3zHsXsx0X6067EAt",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/ndriana_ramamonjy/Rasalama.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "twGf3zHsXsx0X6067EAt",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "B1cD2eF3gH4iJ5kL6mN7",
-    "title": "Tsy izay miseho anio",
-    "albumId": "P6qR7sT8uV9wX0yZ1aB2",
-    "price": 10000,
-    "isEnabled": false,
-    "imagePath": "assets/midi/albums/jocelyn_ranjarison.jpg",
-    "filePath": "assets/midi/albums/jocelyn_ranjarison/Tsy izay miseho anio.mid",
-    "author": "Jocely Ranjarison",
-    "musicGenreId": "twGf3zHsXsx0X6067EAt",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/jocelyn_ranjarison/Tsy izay miseho anio.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "twGf3zHsXsx0X6067EAt",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "O8pQ9rS0tU1vW2xY3zA4",
-    "title": "Ambany elatrao",
-    "albumId": "P6qR7sT8uV9wX0yZ1aB2",
-    "price": 10000,
-    "isEnabled": false,
-    "imagePath": "assets/midi/albums/jocelyn_ranjarison.jpg",
-    "filePath": "assets/midi/albums/jocelyn_ranjarison/Ambany elatrao.mid",
-    "author": "Jocely Ranjarison",
-    "musicGenreId": "twGf3zHsXsx0X6067EAt",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/jocelyn_ranjarison/Ambany elatrao.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "twGf3zHsXsx0X6067EAt",
-      "priority": 2,
-      "label": "Bàs Gasy"
-    }
-  },
-  {
-    "id": "B5cD6eF7gH8iJ9kL0mN1",
-    "title": "Ampianaro",
-    "albumId": "P0qR1sT2uV3wX4yZ5aB6",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/poopy/Ampianaro.mid",
-    "imagePath": "assets/midi/albums/poopy.jpg",
-    "author": "Poopy",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/poopy/Ampianaro.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "O2pQ3rS4tU5vW6xY7zA8",
-    "title": "Tsara andriamanitra",
-    "albumId": "P0qR1sT2uV3wX4yZ5aB6",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/poopy/Tsara andriamanitra.mid",
-    "imagePath": "assets/midi/albums/poopy.jpg",
-    "author": "Poopy",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/poopy/Tsara andriamanitra.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "B9cD0eF1gH2iJ3kL4mN5",
-    "title": "Mpiahy",
-    "albumId": "P0qR1sT2uV3wX4yZ5aB6",
-    "price": 10000,
-    "isEnabled": false,
-    "filePath": "assets/midi/albums/poopy/Mpiahy.mid",
-    "imagePath": "assets/midi/albums/poopy.jpg",
-    "author": "Poopy",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/poopy/Mpiahy.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "O6pQ7rS8tU9vW0xY1zA2",
-    "title": "Vavaka",
-    "albumId": "P0qR1sT2uV3wX4yZ5aB6",
-    "price": 10000,
-    "isEnabled": false,
-    "imagePath": "assets/midi/albums/poopy.jpg",
-    "filePath": "assets/midi/albums/poopy/Vavaka.mid",
-    "author": "Poopy",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/poopy/Vavaka.mp3",
-    "mp3Offset": 0,
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "B3cD4eF5gH6iJ7kL8mN9",
-    "title": "Manana anao",
-    "albumId": "C3dE4fG5hI6jK7lM8nO9",
-    "price": 10000,
-    "isEnabled": false,
-    "imagePath": "assets/midi/albums/gmmc.jpg",
-    "filePath": "assets/midi/albums/gmmc/Manana anao.mid",
-    "author": "GMMC",
-    "musicGenreId": "NoVGc5LUTJblkJjyat22",
-    "hasMp3": false,
-    "mp3FilePath": "assets/mp3/albums/gmmc/Manana anao.mp3",
-    "mp3Offset": 0,
-    "musicGenre": {
-      "id": "NoVGc5LUTJblkJjyat22",
-      "priority": 4,
-      "label": "Gospel"
-    }
-  },
-  {
-    "id": "O0pQ1rS2tU3vW4xY5zA6",
-    "title": "Mandodona",
-    "albumId": "RzVRnr3A4jXEWKHrDSum",
-    "price": 10000,
-    "hasMp3": true,
-    "mp3Offset": 1800,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/tgc.jpg",
-    "mp3FilePath": "assets/mp3/albums/tgc/Mandodona.mp3",
-    "filePath": "assets/midi/albums/tgc/Mandodona.mid",
-    "author": "TGC",
-    "musicGenreId": "NoVGc5LUTJblkJjyat22",
-    "musicGenre": {
-      "id": "NoVGc5LUTJblkJjyat22",
-      "priority": 4,
-      "label": "Gospel"
-    }
-  },
-  {
-    "id": "GCMaxeZON8ulSkK4tBAw",
-    "title": "Antompisiako",
-    "albumId": "gq9f03l0ZyZetyU1jny0",
-    "price": 10000,
-    "hasMp3": false,
-    "mp3Offset": 0,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
-    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Antompisiako.mp3",
-    "filePath": "assets/midi/albums/rojo_ny_avo/Antompisiako.mid",
-    "author": "Rojo Ny Avo",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "fiFbn1lBgxVhkHGi8AaJ",
-    "title": "Babo",
-    "albumId": "gq9f03l0ZyZetyU1jny0",
-    "price": 10000,
-    "hasMp3": false,
-    "mp3Offset": 0,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
-    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Babo.mp3",
-    "filePath": "assets/midi/albums/rojo_ny_avo/Babo.mid",
-    "author": "Rojo Ny Avo",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "ur2j8KFZ08ufS6ffgjdM",
-    "title": "Fiantahantako",
-    "albumId": "gq9f03l0ZyZetyU1jny0",
-    "price": 10000,
-    "hasMp3": false,
-    "mp3Offset": 0,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
-    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Fiantahantako.mp3",
-    "filePath": "assets/midi/albums/rojo_ny_avo/Fiantahantako.mid",
-    "author": "Rojo Ny Avo",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "9FyGuUwyqFwzPfUsaunl",
-    "title": "Ianao foana",
-    "albumId": "gq9f03l0ZyZetyU1jny0",
-    "price": 10000,
-    "hasMp3": false,
-    "mp3Offset": 0,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
-    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Ianao foana.mp3",
-    "filePath": "assets/midi/albums/rojo_ny_avo/Ianao foana.mid",
-    "author": "Rojo Ny Avo",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "ZHVc4cUHvpcSVqGIMp3Q",
-    "title": "Omany ny mandrakizay",
-    "albumId": "gq9f03l0ZyZetyU1jny0",
-    "price": 10000,
-    "hasMp3": false,
-    "mp3Offset": 0,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
-    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Omany ny mandrakizay.mp3",
-    "filePath": "assets/midi/albums/rojo_ny_avo/Omany ny mandrakizay.mid",
-    "author": "Rojo Ny Avo",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "QhcQxzbOaxoDekavMuBu",
-    "title": "Vita sedra",
-    "albumId": "gq9f03l0ZyZetyU1jny0",
-    "price": 10000,
-    "hasMp3": false,
-    "mp3Offset": 0,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
-    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Vita sedra.mp3",
-    "filePath": "assets/midi/albums/rojo_ny_avo/Vita sedra.mid",
-    "author": "Rojo Ny Avo",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "skBxauhHGXoFDqB83i2a",
-    "title": "Voady",
-    "albumId": "gq9f03l0ZyZetyU1jny0",
-    "price": 10000,
-    "hasMp3": false,
-    "mp3Offset": 0,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
-    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Voady.mp3",
-    "filePath": "assets/midi/albums/rojo_ny_avo/Voady.mid",
-    "author": "Rojo Ny Avo",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
-    "id": "rN5wQxalt7jKTqQFiRtC",
-    "title": "Voky fitahiana",
-    "albumId": "gq9f03l0ZyZetyU1jny0",
-    "price": 10000,
-    "hasMp3": false,
-    "mp3Offset": 0,
-    "isEnabled": true,
-    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
-    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Voky fitahiana.mp3",
-    "filePath": "assets/midi/albums/rojo_ny_avo/Voky fitahiana.mid",
-    "author": "Rojo Ny Avo",
-    "musicGenreId": "qGy00cbBBCgihzMzDPII",
-    "musicGenre": {
-      "id": "qGy00cbBBCgihzMzDPII",
-      "priority": 3,
-      "label": "Variétés"
-    }
-  },
-  {
     "id": "Xy7zA8bC9dE0fG1hI2j",
     "title": "Fahasoavanao",
     "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": true,
+    "price": 5000,
+    "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
     "filePath": "assets/midi/albums/joseph_d_a_f/Fahasoavanao.mid",
     "author": "Joseph d'Af",
@@ -497,8 +22,8 @@
     "id": "K3lM4nO5pQ6rS7tU8v",
     "title": "Fanotronany",
     "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": true,
+    "price": 5000,
+    "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
     "filePath": "assets/midi/albums/joseph_d_a_f/Fanotronany.mid",
     "author": "Joseph d'Af",
@@ -516,8 +41,8 @@
     "id": "W9xY0zA1bC2dE3fG4h",
     "title": "Fitiavana Voalohany",
     "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": true,
+    "price": 5000,
+    "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
     "filePath": "assets/midi/albums/joseph_d_a_f/Fitiavana Voalohany.mid",
     "author": "Joseph d'Af",
@@ -535,8 +60,8 @@
     "id": "I5jK6lM7nO8pQ9rS0t",
     "title": "Ianao no Andriamanitro",
     "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": true,
+    "price": 5000,
+    "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
     "filePath": "assets/midi/albums/joseph_d_a_f/Ianao no Andriamanitro.mid",
     "author": "Joseph d'Af",
@@ -554,8 +79,8 @@
     "id": "U1vW2xY3zA4bC5dE6f",
     "title": "Kalvary",
     "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": true,
+    "price": 5000,
+    "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
     "filePath": "assets/midi/albums/joseph_d_a_f/Kalvary.mid",
     "author": "Joseph d'Af",
@@ -573,8 +98,8 @@
     "id": "G7hI8jK9lM0nO1pQ2r",
     "title": "Rahoviana",
     "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": true,
+    "price": 5000,
+    "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
     "filePath": "assets/midi/albums/joseph_d_a_f/Rahoviana.mid",
     "author": "Joseph d'Af",
@@ -592,8 +117,8 @@
     "id": "S3tU4vW5xY6zA7bC8d",
     "title": "Tena fitiavana",
     "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": true,
+    "price": 5000,
+    "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
     "filePath": "assets/midi/albums/joseph_d_a_f/Tena fitiavana.mid",
     "author": "Joseph d'Af",
@@ -611,8 +136,8 @@
     "id": "E9fG0hI1jK2lM3nO4p",
     "title": "Tsy hangina",
     "albumId": "C5dE6fG7hI8jK9lM0nO1",
-    "price": 10000,
-    "isEnabled": true,
+    "price": 5000,
+    "isEnabled": false,
     "imagePath": "assets/midi/albums/joseph_d_a_f.jpg",
     "filePath": "assets/midi/albums/joseph_d_a_f/Tsy hangina.mid",
     "author": "Joseph d'Af",
@@ -625,5 +150,2033 @@
       "priority": 3,
       "label": "Variétés"
     }
-  }
+  },
+  // ==================== Rojo Ny Avo (inchangé) ====================
+  {
+    "id": "GCMaxeZON8ulSkK4tBAw",
+    "title": "Antompisiako",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 5000,
+    "hasMp3": false,
+    "mp3Offset": 0,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Antompisiako.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Antompisiako.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "fiFbn1lBgxVhkHGi8AaJ",
+    "title": "Babo",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 5000,
+    "hasMp3": false,
+    "mp3Offset": 0,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Babo.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Babo.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "ur2j8KFZ08ufS6ffgjdM",
+    "title": "Fiantahantako",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 5000,
+    "hasMp3": false,
+    "mp3Offset": 0,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Fiantahantako.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Fiantahantako.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "9FyGuUwyqFwzPfUsaunl",
+    "title": "Ianao foana",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 5000,
+    "hasMp3": false,
+    "mp3Offset": 0,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Ianao foana.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Ianao foana.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "ZHVc4cUHvpcSVqGIMp3Q",
+    "title": "Omany ny mandrakizay",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 5000,
+    "hasMp3": false,
+    "mp3Offset": 0,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Omany ny mandrakizay.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Omany ny mandrakizay.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "QhcQxzbOaxoDekavMuBu",
+    "title": "Vita sedra",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 5000,
+    "hasMp3": false,
+    "mp3Offset": 0,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Vita sedra.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Vita sedra.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "skBxauhHGXoFDqB83i2a",
+    "title": "Voady",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 5000,
+    "hasMp3": false,
+    "mp3Offset": 0,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Voady.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Voady.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "rN5wQxalt7jKTqQFiRtC",
+    "title": "Voky fitahiana",
+    "albumId": "gq9f03l0ZyZetyU1jny0",
+    "price": 5000,
+    "hasMp3": false,
+    "mp3Offset": 0,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rojo_ny_avo.jpg",
+    "mp3FilePath": "assets/mp3/albums/rojo_ny_avo/Voky fitahiana.mp3",
+    "filePath": "assets/midi/albums/rojo_ny_avo/Voky fitahiana.mid",
+    "author": "Rojo Ny Avo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  // ==================== Jaws Band ====================
+  {
+    "id": "JawsBandSng001",
+    "title": "Efa lera",
+    "albumId": "JawsBandAlbm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/jaws_band.jpg",
+    "filePath": "assets/midi/albums/jaws_band/Efa lera.mid",
+    "author": "Jaws Band",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/jaws_band/Efa lera.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "JawsBandSng002",
+    "title": "Gasikara",
+    "albumId": "JawsBandAlbm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/jaws_band.jpg",
+    "filePath": "assets/midi/albums/jaws_band/Gasikara.mid",
+    "author": "Jaws Band",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/jaws_band/Gasikara.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "JawsBandSng003",
+    "title": "Ray",
+    "albumId": "JawsBandAlbm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/jaws_band.jpg",
+    "filePath": "assets/midi/albums/jaws_band/Ray.mid",
+    "author": "Jaws Band",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/jaws_band/Ray.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "JawsBandSng004",
+    "title": "Tsy manary anao Jehovah",
+    "albumId": "JawsBandAlbm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/jaws_band.jpg",
+    "filePath": "assets/midi/albums/jaws_band/Tsy manary anao Jehovah.mid",
+    "author": "Jaws Band",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/jaws_band/Tsy manary anao Jehovah.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "JawsBandSng005",
+    "title": "Mitalaho",
+    "albumId": "JawsBandAlbm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/jaws_band.jpg",
+    "filePath": "assets/midi/albums/jaws_band/Mitalaho.mid",
+    "author": "Jaws Band",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/jaws_band/Mitalaho.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "JawsBandSng006",
+    "title": "Mandiniha hely",
+    "albumId": "JawsBandAlbm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/jaws_band.jpg",
+    "filePath": "assets/midi/albums/jaws_band/Mandiniha hely.mid",
+    "author": "Jaws Band",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/jaws_band/Mandiniha hely.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "JawsBandSng007",
+    "title": "Rehatra",
+    "albumId": "JawsBandAlbm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/jaws_band.jpg",
+    "filePath": "assets/midi/albums/jaws_band/Rehatra.mid",
+    "author": "Jaws Band",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/jaws_band/Rehatra.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== TGC ====================
+  {
+    "id": "TGCSng0000001",
+    "title": "Ny Fanatrehanao",
+    "albumId": "TGCAlbumId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/tgc.jpg",
+    "filePath": "assets/midi/albums/tgc/Ny Fanatrehanao.mid",
+    "author": "TGC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/tgc/Ny Fanatrehanao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "TGCSng0000002",
+    "title": "Anao ny Dera",
+    "albumId": "TGCAlbumId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/tgc.jpg",
+    "filePath": "assets/midi/albums/tgc/Anao ny Dera.mid",
+    "author": "TGC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/tgc/Anao ny Dera.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "TGCSng0000003",
+    "title": "Misandratra Ianao",
+    "albumId": "TGCAlbumId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/tgc.jpg",
+    "filePath": "assets/midi/albums/tgc/Misandratra Ianao.mid",
+    "author": "TGC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/tgc/Misandratra Ianao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "TGCSng0000004",
+    "title": "Misaora an'i Jéhova",
+    "albumId": "TGCAlbumId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/tgc.jpg",
+    "filePath": "assets/midi/albums/tgc/Misaora an'i Jéhova.mid",
+    "author": "TGC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/tgc/Misaora an'i Jéhova.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "TGCSng0000005",
+    "title": "Mandrakizay",
+    "albumId": "TGCAlbumId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/tgc.jpg",
+    "filePath": "assets/midi/albums/tgc/Mandrakizay.mid",
+    "author": "TGC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/tgc/Mandrakizay.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== Vonjy ====================
+  {
+    "id": "VonjySng000001",
+    "title": "Tarigetra",
+    "albumId": "VonjyAlbmId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/vonjy.jpg",
+    "filePath": "assets/midi/albums/vonjy/Tarigetra.mid",
+    "author": "Vonjy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/vonjy/Tarigetra.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "VonjySng000002",
+    "title": "Hazo Fijaliana",
+    "albumId": "VonjyAlbmId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/vonjy.jpg",
+    "filePath": "assets/midi/albums/vonjy/Hazo Fijaliana.mid",
+    "author": "Vonjy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/vonjy/Hazo Fijaliana.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "VonjySng000003",
+    "title": "Tsiaro",
+    "albumId": "VonjyAlbmId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/vonjy.jpg",
+    "filePath": "assets/midi/albums/vonjy/Tsiaro.mid",
+    "author": "Vonjy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/vonjy/Tsiaro.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "VonjySng000004",
+    "title": "Nandondona",
+    "albumId": "VonjyAlbmId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/vonjy.jpg",
+    "filePath": "assets/midi/albums/vonjy/Nandondona.mid",
+    "author": "Vonjy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/vonjy/Nandondona.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "VonjySng000005",
+    "title": "Sarobidy",
+    "albumId": "VonjyAlbmId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/vonjy.jpg",
+    "filePath": "assets/midi/albums/vonjy/Sarobidy.mid",
+    "author": "Vonjy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/vonjy/Sarobidy.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "VonjySng000006",
+    "title": "Mamela ny Helony",
+    "albumId": "VonjyAlbmId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/vonjy.jpg",
+    "filePath": "assets/midi/albums/vonjy/Mamela ny Helony.mid",
+    "author": "Vonjy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/vonjy/Mamela ny Helony.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== New Called ====================
+  {
+    "id": "NewCalledSng001",
+    "title": "Masina Ianao",
+    "albumId": "NewCalledAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/new_called.jpg",
+    "filePath": "assets/midi/albums/new_called/Masina Ianao.mid",
+    "author": "New Called",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/new_called/Masina Ianao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "NewCalledSng002",
+    "title": "Raha Momba Agh",
+    "albumId": "NewCalledAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/new_called.jpg",
+    "filePath": "assets/midi/albums/new_called/Raha Momba Agh.mid",
+    "author": "New Called",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/new_called/Raha Momba Agh.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "NewCalledSng003",
+    "title": "Mampandroso Anay",
+    "albumId": "NewCalledAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/new_called.jpg",
+    "filePath": "assets/midi/albums/new_called/Mampandroso Anay.mid",
+    "author": "New Called",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/new_called/Mampandroso Anay.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "NewCalledSng004",
+    "title": "Lalana Ho Ahy",
+    "albumId": "NewCalledAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/new_called.jpg",
+    "filePath": "assets/midi/albums/new_called/Lalana Ho Ahy.mid",
+    "author": "New Called",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/new_called/Lalana Ho Ahy.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "NewCalledSng005",
+    "title": "Ianao Ilay Kanto Indrindra",
+    "albumId": "NewCalledAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/new_called.jpg",
+    "filePath": "assets/midi/albums/new_called/Ianao Ilay Kanto Indrindra.mid",
+    "author": "New Called",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/new_called/Ianao Ilay Kanto Indrindra.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== Rija Rasolondraibe ====================
+  {
+    "id": "RijaRasolSng01",
+    "title": "Mahay manao ny Zavatra rehetra",
+    "albumId": "RijaRasolAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Mahay manao ny Zavatra rehetra.mid",
+    "author": "Rija Rasolondraibe",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/rija_rasolondraibe/Mahay manao ny Zavatra rehetra.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "RijaRasolSng02",
+    "title": "Ianao no Heriko",
+    "albumId": "RijaRasolAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Ianao no Heriko.mid",
+    "author": "Rija Rasolondraibe",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/rija_rasolondraibe/Ianao no Heriko.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "RijaRasolSng03",
+    "title": "Ampanidino Any",
+    "albumId": "RijaRasolAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/rija_rasolondraibe.jpg",
+    "filePath": "assets/midi/albums/rija_rasolondraibe/Ampanidino Any.mid",
+    "author": "Rija Rasolondraibe",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/rija_rasolondraibe/Ampanidino Any.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  // ==================== The Singers of Jesus ====================
+  {
+    "id": "SingersJsSng001",
+    "title": "Mandondona",
+    "albumId": "SingersOfJsAlm1",
+    "price": 5000,
+    "isEnabled": true,
+    "imagePath": "assets/midi/albums/the_singers_of_jesus.jpg",
+    "filePath": "assets/midi/albums/the_singers_of_jesus/Mandondona.mid",
+    "author": "The Singers of Jesus",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": true,
+    "mp3FilePath": "assets/mp3/albums/the_singers_of_jesus/Mandondona.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "SingersJsSng002",
+    "title": "Hainy Atao",
+    "albumId": "SingersOfJsAlm1",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/the_singers_of_jesus.jpg",
+    "filePath": "assets/midi/albums/the_singers_of_jesus/Hainy Atao.mid",
+    "author": "The Singers of Jesus",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/the_singers_of_jesus/Hainy Atao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "SingersJsSng003",
+    "title": "Malalany",
+    "albumId": "SingersOfJsAlm1",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/the_singers_of_jesus.jpg",
+    "filePath": "assets/midi/albums/the_singers_of_jesus/Malalany.mid",
+    "author": "The Singers of Jesus",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/the_singers_of_jesus/Malalany.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== Pasteur Jocelyn ====================
+  {
+    "id": "PastJocSng0001",
+    "title": "Ambany Elatrao",
+    "albumId": "PasteurJocAlm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/pasteur_jocelyn.jpg",
+    "filePath": "assets/midi/albums/pasteur_jocelyn/Ambany Elatrao.mid",
+    "author": "Pasteur Jocelyn",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/pasteur_jocelyn/Ambany Elatrao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "PastJocSng0002",
+    "title": "Manantena Anao",
+    "albumId": "PasteurJocAlm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/pasteur_jocelyn.jpg",
+    "filePath": "assets/midi/albums/pasteur_jocelyn/Manantena Anao.mid",
+    "author": "Pasteur Jocelyn",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/pasteur_jocelyn/Manantena Anao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "PastJocSng0003",
+    "title": "Atsanganao Indray",
+    "albumId": "PasteurJocAlm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/pasteur_jocelyn.jpg",
+    "filePath": "assets/midi/albums/pasteur_jocelyn/Atsanganao Indray.mid",
+    "author": "Pasteur Jocelyn",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/pasteur_jocelyn/Atsanganao Indray.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  // ==================== GMMC ====================
+  {
+    "id": "GMMCSng0000001",
+    "title": "Ianao Mahalala",
+    "albumId": "GMMCAlbumId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/gmmc.jpg",
+    "filePath": "assets/midi/albums/gmmc/Ianao Mahalala.mid",
+    "author": "GMMC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/gmmc/Ianao Mahalala.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "GMMCSng0000002",
+    "title": "Manana Anao",
+    "albumId": "GMMCAlbumId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/gmmc.jpg",
+    "filePath": "assets/midi/albums/gmmc/Manana Anao.mid",
+    "author": "GMMC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/gmmc/Manana Anao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "GMMCSng0000003",
+    "title": "Ampianaro Aho",
+    "albumId": "GMMCAlbumId001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/gmmc.jpg",
+    "filePath": "assets/midi/albums/gmmc/Ampianaro Aho.mid",
+    "author": "GMMC",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/gmmc/Ampianaro Aho.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== Kirk Franklin ====================
+  {
+    "id": "KirkFranklinS01",
+    "title": "Don't Cry",
+    "albumId": "KirkFranklinAl01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/kirk_franklin.jpg",
+    "filePath": "assets/midi/albums/kirk_franklin/Don't Cry.mid",
+    "author": "Kirk Franklin",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/kirk_franklin/Don't Cry.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "KirkFranklinS02",
+    "title": "My Life Is in Your Hands",
+    "albumId": "KirkFranklinAl01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/kirk_franklin.jpg",
+    "filePath": "assets/midi/albums/kirk_franklin/My Life Is in Your Hands.mid",
+    "author": "Kirk Franklin",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/kirk_franklin/My Life Is in Your Hands.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "KirkFranklinS03",
+    "title": "Hosanna",
+    "albumId": "KirkFranklinAl01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/kirk_franklin.jpg",
+    "filePath": "assets/midi/albums/kirk_franklin/Hosanna.mid",
+    "author": "Kirk Franklin",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/kirk_franklin/Hosanna.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== TMI / Tanora Masina Itaosy ====================
+  {
+    "id": "TMISng00000001",
+    "title": "Kalvary",
+    "albumId": "TMIAlbumId0001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/tmi.jpg",
+    "filePath": "assets/midi/albums/tmi/Kalvary.mid",
+    "author": "Tanora Masina Itaosy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/tmi/Kalvary.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "TMISng00000004",
+    "title": "Izy rehetra",
+    "albumId": "TMIAlbumId0001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/tmi.jpg",
+    "filePath": "assets/midi/albums/tmi/Izy rehetra.mid",
+    "author": "Tanora Masina Itaosy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/tmi/Izy rehetra.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== Ny Mpitory ====================
+  {
+    "id": "NyMpitorySng01",
+    "title": "FF42",
+    "albumId": "NyMpitoryAlm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/ny_mpitory.jpg",
+    "filePath": "assets/midi/albums/ny_mpitory/FF42.mid",
+    "author": "Ny Mpitory",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/ny_mpitory/FF42.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "NyMpitorySng02",
+    "title": "Isika Tia",
+    "albumId": "NyMpitoryAlm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/ny_mpitory.jpg",
+    "filePath": "assets/midi/albums/ny_mpitory/Isika Tia.mid",
+    "author": "Ny Mpitory",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/ny_mpitory/Isika Tia.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "NyMpitorySng03",
+    "title": "Tompo ô Henoy",
+    "albumId": "NyMpitoryAlm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/ny_mpitory.jpg",
+    "filePath": "assets/midi/albums/ny_mpitory/Tompo ô Henoy.mid",
+    "author": "Ny Mpitory",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/ny_mpitory/Tompo ô Henoy.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "NyMpitorySng04",
+    "title": "Isaorako",
+    "albumId": "NyMpitoryAlm01",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/ny_mpitory.jpg",
+    "filePath": "assets/midi/albums/ny_mpitory/Isaorako.mid",
+    "author": "Ny Mpitory",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/ny_mpitory/Isaorako.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  // ==================== Bodokeky ====================
+  {
+    "id": "BodokekySng001",
+    "title": "Mino Aho",
+    "albumId": "BodokekyAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/bodokeky.jpg",
+    "filePath": "assets/midi/albums/bodokeky/Mino Aho.mid",
+    "author": "Bodokeky",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/bodokeky/Mino Aho.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "BodokekySng002",
+    "title": "Atmosphère Ny Lanitra / Mpanao Lalana",
+    "albumId": "BodokekyAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/bodokeky.jpg",
+    "filePath": "assets/midi/albums/bodokeky/Atmosphère Ny Lanitra / Mpanao Lalana.mid",
+    "author": "Bodokeky",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/bodokeky/Atmosphère Ny Lanitra / Mpanao Lalana.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "BodokekySng003",
+    "title": "Izay Miandry Anao",
+    "albumId": "BodokekyAlm001",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/bodokeky.jpg",
+    "filePath": "assets/midi/albums/bodokeky/Izay Miandry Anao.mid",
+    "author": "Bodokeky",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/bodokeky/Izay Miandry Anao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  // ==================== Autres ====================
+  {
+    "id": "AutresSng000050",
+    "title": "Tantano",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Tantano - Timothy Ministries.mid",
+    "author": "Timothy Ministries",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Tantano - Timothy Ministries.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000051",
+    "title": "Taranaka Voafidy",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Taranaka Voafidy - Timothy Ministries.mid",
+    "author": "Timothy Ministries",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Taranaka Voafidy - Timothy Ministries.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000001",
+    "title": "Anao ny Fiainako",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Anao ny Fiainako.mid",
+    "author": "NTC Gospel",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Anao ny Fiainako.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000002",
+    "title": "Manàna Finoana",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Manàna Finoana.mid",
+    "author": "Njara Marcel",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Manàna Finoana.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000003",
+    "title": "Tantano",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Tantano - Johane.mid",
+    "author": "Johane",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Tantano - Johane.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000004",
+    "title": "Raiso Jesosy",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Raiso Jesosy.mid",
+    "author": "FEFI",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Raiso Jesosy.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000005",
+    "title": "Jéhovah Tompon'ny Maro",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Jéhovah Tompon'ny Maro.mid",
+    "author": "FEFI",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Jéhovah Tompon'ny Maro.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000006",
+    "title": "Feo Miantso",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Feo Miantso.mid",
+    "author": "Bessa",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Feo Miantso.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000007",
+    "title": "Isaoranay",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Isaoranay.mid",
+    "author": "Bessa",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Isaoranay.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000008",
+    "title": "Mino Aho",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Mino Aho - Rija Ramanantoanina.mid",
+    "author": "Rija Ramanantoanina",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Mino Aho - Rija Ramanantoanina.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000009",
+    "title": "Faniriana Ny Ahy",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Faniriana Ny Ahy.mid",
+    "author": "Rija Ramanantoanina",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Faniriana Ny Ahy.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000010",
+    "title": "Ny Fanahiko",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Ny Fanahiko.mid",
+    "author": "Ndriana Ramamonjy",
+    "musicGenreId": "twGf3zHsXsx0X6067EAt",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Ny Fanahiko.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000011",
+    "title": "Hadalana",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Hadalana.mid",
+    "author": "Ndriana Ramamonjy",
+    "musicGenreId": "twGf3zHsXsx0X6067EAt",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Hadalana.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000012",
+    "title": "Andriamanitra Tsy Mandao",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Andriamanitra Tsy Mandao.mid",
+    "author": "Laurent R.",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Andriamanitra Tsy Mandao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000013",
+    "title": "Herin'ny Fanahy",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Herin'ny Fanahy.mid",
+    "author": "Groupe Laurent R.",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Herin'ny Fanahy.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000014",
+    "title": "Izany Vavakay",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Izany Vavakay.mid",
+    "author": "Silo",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Izany Vavakay.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000015",
+    "title": "Mahatoky Loatra",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Mahatoky Loatra.mid",
+    "author": "Pepe Shine",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Mahatoky Loatra.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000016",
+    "title": "FF39",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/FF39.mid",
+    "author": "FF",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/FF39.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000017",
+    "title": "FF10",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/FF10.mid",
+    "author": "FF",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/FF10.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000018",
+    "title": "Jesosy Tsara",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Jesosy Tsara.mid",
+    "author": "Kerobima",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Jesosy Tsara.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000019",
+    "title": "Maniry Aho",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Maniry Aho.mid",
+    "author": "Lovatiana",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Maniry Aho.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000020",
+    "title": "Mbola Tiany",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Mbola Tiany.mid",
+    "author": "New Life of Christ Gospel",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Mbola Tiany.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000021",
+    "title": "Lalan-tsarotra",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Lalan-tsarotra.mid",
+    "author": "Bodo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Lalan-tsarotra.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000022",
+    "title": "Mandalo Ihany",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Mandalo Ihany.mid",
+    "author": "Bodo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Mandalo Ihany.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000023",
+    "title": "Rahoviana",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Rahoviana.mid",
+    "author": "Autres",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Rahoviana.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000024",
+    "title": "Tanjona",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Tanjona.mid",
+    "author": "Vol. 9",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Tanjona.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000025",
+    "title": "Isaoranay — Bessa / version Bodo",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Isaoranay - version Bodo.mid",
+    "author": "Bodo",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Isaoranay - version Bodo.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000026",
+    "title": "Tantano",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Tantano - Antsan'i Kristy.mid",
+    "author": "Antsan'i Kristy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Tantano - Antsan'i Kristy.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000027",
+    "title": "Amiro ny Fo Madio",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Amiro ny Fo Madio.mid",
+    "author": "Antsan'i Kristy",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Amiro ny Fo Madio.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000028",
+    "title": "Amazing Grace",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Amazing Grace.mid",
+    "author": "Autres",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Amazing Grace.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000029",
+    "title": "Na Sarotra Ny Lalana Aleha",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Na Sarotra Ny Lalana Aleha.mid",
+    "author": "Poopy",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Na Sarotra Ny Lalana Aleha.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000030",
+    "title": "Tefeo ny Foko",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Tefeo ny Foko.mid",
+    "author": "Autres",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Tefeo ny Foko.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000031",
+    "title": "Mihoatra Lavitra",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Mihoatra Lavitra.mid",
+    "author": "Christophe Ratrema",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Mihoatra Lavitra.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000032",
+    "title": "You're God Alone",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/You're God Alone.mid",
+    "author": "Autres",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/You're God Alone.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000033",
+    "title": "The Best in Me",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/The Best in Me.mid",
+    "author": "Autres",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/The Best in Me.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000034",
+    "title": "My Testimony",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/My Testimony.mid",
+    "author": "Autres",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/My Testimony.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000035",
+    "title": "Here I Am",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Here I Am.mid",
+    "author": "Autres",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Here I Am.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000036",
+    "title": "Valim-bavaka",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Valim-bavaka.mid",
+    "author": "VHF",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Valim-bavaka.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000037",
+    "title": "Libéré",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Libéré.mid",
+    "author": "Maggie Blanchard",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Libéré.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000038",
+    "title": "Antso Ho Anao",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Antso Ho Anao.mid",
+    "author": "HIM",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Antso Ho Anao.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000039",
+    "title": "Ho Anjarako",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Ho Anjarako.mid",
+    "author": "Tovo J'Hay",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Ho Anjarako.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000040",
+    "title": "Manaiky Aho",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Manaiky Aho.mid",
+    "author": "Firmin",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Manaiky Aho.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000041",
+    "title": "Melody",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Melody.mid",
+    "author": "Molina / Nord Grand 2",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Melody.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000042",
+    "title": "Praise the Lord",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Praise the Lord.mid",
+    "author": "Autres",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Praise the Lord.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000043",
+    "title": "Canon in D",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Canon in D.mid",
+    "author": "Autres",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Canon in D.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000044",
+    "title": "River Flows in You",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/River Flows in You.mid",
+    "author": "Autres",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/River Flows in You.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000045",
+    "title": "Carol of the Bells",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Carol of the Bells.mid",
+    "author": "Autres",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Carol of the Bells.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000046",
+    "title": "Ry Tanindrazanay Malala",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Ry Tanindrazanay Malala.mid",
+    "author": "Autres",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Ry Tanindrazanay Malala.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000047",
+    "title": "Mitsangana Ry Tanora",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Mitsangana Ry Tanora.mid",
+    "author": "Autres",
+    "musicGenreId": "qGy00cbBBCgihzMzDPII",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Mitsangana Ry Tanora.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "qGy00cbBBCgihzMzDPII",
+      "priority": 3,
+      "label": "Variétés"
+    }
+  },
+  {
+    "id": "AutresSng000048",
+    "title": "Goodness of God",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/Goodness of God.mid",
+    "author": "Autres",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/Goodness of God.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
+  {
+    "id": "AutresSng000049",
+    "title": "James Fortune",
+    "albumId": "AutresAlbumId00",
+    "price": 5000,
+    "isEnabled": false,
+    "imagePath": "assets/midi/albums/autres.jpg",
+    "filePath": "assets/midi/albums/autres/James Fortune.mid",
+    "author": "Autres",
+    "musicGenreId": "NoVGc5LUTJblkJjyat22",
+    "hasMp3": false,
+    "mp3FilePath": "assets/mp3/albums/autres/James Fortune.mp3",
+    "mp3Offset": 0,
+    "musicGenre": {
+      "id": "NoVGc5LUTJblkJjyat22",
+      "priority": 4,
+      "label": "Gospel"
+    }
+  },
 ]
