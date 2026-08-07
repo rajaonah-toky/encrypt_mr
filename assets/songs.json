@@ -1142,7 +1142,7 @@
   {
     "id": "bodokelySng001",
     "title": "Mino Aho",
-    "albumId": "bodokelyAlm001",
+    "albumId": "BodokelyAlm001",
     "price": 5000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/bodokely.jpg",
@@ -1161,7 +1161,7 @@
   {
     "id": "bodokelySng002",
     "title": "Mpanao Lalana",
-    "albumId": "bodokelyAlm001",
+    "albumId": "BodokelyAlm001",
     "price": 5000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/bodokely.jpg",
@@ -1180,7 +1180,7 @@
   {
     "id": "bodokelySng003",
     "title": "Izay Miandry Anao",
-    "albumId": "bodokelyAlm001",
+    "albumId": "BodokelyAlm001",
     "price": 5000,
     "isEnabled": false,
     "imagePath": "assets/midi/albums/bodokely.jpg",
